@@ -1,0 +1,7382 @@
+﻿{
+    "Hilton 212-213": [
+        {
+            "Name": "Adaptor - 1/4 mono to XLR ",
+            "Quantity": "2",
+            "Notes, #": "1 male, 1 female, not used",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Adaptor - RCA to 1/4",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Adaptor - RCA to RCA (1 M to 2 F)",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "6 ft XLR",
+            "Quantity": "4",
+            "Notes, #": "all 4 not used",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "6 ft RCA to 1/4 pair.",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "6 ft rca to rca pair",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "6 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "10 ft 1/4 (aka purple Spkr cable)",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 FT AC",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 FT RCA STEREO CABLE",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "8",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft bnc cables",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft AC",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "5O ft BNC",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft Spkr",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft VGA",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft XLR",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "100 ft AC",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "60 in plasma w stand",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "8 ch mixer with aux out & USB",
+            "Quantity": "1",
+            "Notes, #": "#77",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "AA Batteries for Wireless",
+            "Quantity": "24",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "DI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Duct Tape, Black",
+            "Quantity": "1 roll",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Blue Ray Player",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Flip Chart w/ Markers",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "P&D Bases",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "P&D Black Drapes",
+            "Quantity": "8",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "P&D Crosses",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "P&D ups",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "1",
+            "Notes, #": "#54",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Power Strip",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Ratchet straps",
+            "Quantity": "3",
+            "Notes, #": "#106",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Projector HiRes",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "double RCA Fem to 1/8",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "short cart",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Shure mixer",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Speaker Stands",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Speakers UNPOWERED (small)",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Table Mic Stands",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Tall Cart",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Tall Mic stand.",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Tripod Screen 6ft",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "VGA DA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Wireless HH",
+            "Quantity": "2",
+            "Notes, #": "not here, asked Tech Ops to send one, supposed to be #8, confused between #8 and #8-1 in Hilton 313",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "short hdmi",
+            "Quantity": "1",
+            "Notes, #": "in bluray case",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        }
+    ],
+    "Hilton 309-10": [
+        {
+            "Name": "25 ft ac",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 in Plasma on Stand",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Power Strip",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        }
+    ],
+    "Hilton Crystal Ballroom": [
+        {
+            "Name": "10 Channel Mixer w/ aux out.",
+            "Quantity": "1",
+            "Notes, #": "#25",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "16 X 4 X 100 SNAKE.",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft AC",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "8",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft ac",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "150 ft BNC",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft spk",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "6 ft rca to 1/4 pair.",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "10 ft XLR",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Adaptor - 1/8 to RCA F (1 to 2)",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Adaptors - BNC to RCA",
+            "Quantity": "4",
+            "Notes, #": "small metal adapters",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "AA Batteries",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Easel for Flip Chart",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Flipchart w markers",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "1",
+            "Notes, #": "#303",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Power strip",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Projector HDMI",
+            "Quantity": "1",
+            "Notes, #": "#19",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "projector Table.",
+            "Quantity": "1",
+            "Notes, #": "#23",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Speaker stands",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Speakers",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Table Mic stands",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Boom Mic stands",
+            "Quantity": "4",
+            "Notes, #": "4 1/2 since one stand is missing a boom arm",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Tripod Screen 7 ft",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Wireless Combo Mic",
+            "Quantity": "2",
+            "Notes, #": "#5",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Snake",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "HDS2 for wireless",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        }
+    ],
+    "Hilton Galleria 6": [
+        {
+            "Name": "6 ft XLR",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "12 Ch Mixer",
+            "Quantity": "1",
+            "Notes, #": "#1111",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "100ft CAT 6 cable",
+            "Quantity": "1",
+            "Notes, #": "black ethernet cable",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft AC",
+            "Quantity": "5",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "9",
+            "Notes, #": "3 found",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft AC",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft XLR",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "7 ft Screen",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "9v Batteries for wireless",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Camera Tripod, med",
+            "Quantity": "1",
+            "Notes, #": "no camera",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "PCDI ",
+            "Quantity": "1",
+            "Notes, #": "#69",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Powered Speakers",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Power Strips",
+            "Quantity": "8",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Projector",
+            "Quantity": "1",
+            "Notes, #": "#1115",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "SM58 mics",
+            "Quantity": "7",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Small cart for projector",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Speaker Stands",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Table Mic Stands",
+            "Quantity": "7",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Tall Mic Stand",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Wireless Lav combo mic",
+            "Quantity": "1",
+            "Notes, #": "#4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        }
+    ],
+    "Hilton 313-14": [
+        {
+            "Name": "25 ft ac",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Power Strip",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Wireless Combo Mics",
+            "Quantity": "2",
+            "Notes, #": "#8-1 still here, #8 taken down to 213 (space) by Cross. Both numbered 8, and space doesn't have the transmitter needed",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Small Fender Mixer",
+            "Quantity": "1",
+            "Notes, #": "#74",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Speaker Stands",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Table Mic Stand",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "6 ft XLR",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "1",
+            "Notes, #": "#11",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Tall Mic Stand.",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft Speaker Cables.",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "AA Batteries",
+            "Quantity": "28",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        }
+    ],
+    "Hilton 401-2 TECH OPS": [
+        {
+            "Name": "4 ft HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "10 ft RCA 3",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft AC",
+            "Quantity": "10",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft BNC",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft HDMI",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft VGA",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft AC",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft 1/4\" (aka spkr)",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 in Plasma",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "100 ft AC",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "100 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Adaptors - BNC to F type",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Adaptors - RCA to 1/4",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Backup Kustom Mixer",
+            "Quantity": "1",
+            "Notes, #": "#42",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Converter - VGA to HDMI",
+            "Quantity": "2"
+        },
+        {
+            "Name": "9v Batteries for Wireless",
+            "Quantity": "12",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Blue Ray Player",
+            "Quantity": "2",
+            "Notes, #": "#62, #82",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Computer for video",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "DI Box",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Document Projector",
+            "Quantity": "1",
+            "Notes, #": "Elmo or Wolfvision",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Duct Tape, Black",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Duct Tape, Yellow",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Fender Mixer",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Flipchart w/ Pad",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Kodak Slide Projector",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "LT WT Camera Sticks",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Mac DQngleg Kit. #8",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Overhead Projector.",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "PCDI s #57",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "POWER STRIPS",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "ROJECTOR HDMI",
+            "Quantity": "2",
+            "Notes, #": "#59, #112",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Purple Cable",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "rachet strap",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "RCA pair 6 ft",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "RCA TO BNC adaptors",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Small Cart",
+            "Quantity": "1",
+            "Notes, #": "melt",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "SM58 Mics",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Speaker Stands",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Table Mic Stands",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Tall Cart for Plasma",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Tall Mic stands",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Tripod Screen 6 ft",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Tripod Screen 7 ft",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Video Camera, portable",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Wireless Combo Mic",
+            "Quantity": "3",
+            "Notes, #": "#15",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        }
+    ],
+    "Hilton Galleria 5": [
+        {
+            "Name": "1/4 m to XLR m",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft AC",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "5 ft LXR",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "10ft XLR",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "600 Ohm isolation box",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "8 channel NP mixer",
+            "Quantity": "1",
+            "Notes, #": "#55",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "AA Batteries for wireless",
+            "Quantity": "12",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "1",
+            "Notes, #": "#1008",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Power Strip",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Purple Cable",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Stable Stands",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Tall Mic Stand",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Wirelss HH with clip",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "DI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "1",
+            "Notes, #": "in mixer case",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        }
+    ],
+    "Hilton Galleria 4": [
+        {
+            "Name": "1/4 m to XLR m",
+            "Quantity": "1",
+            "Notes, #": "1 extra, 2 total",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "5ft XLR Cable",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "6ft BNC",
+            "Quantity": "1",
+            "Notes, #": "w/mixer",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25ft AC cable",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25ft XLR",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "6ft XLR",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "6ch Rack mixer",
+            "Quantity": "1",
+            "Notes, #": "#56",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "600Ohm isolation Box",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Adaptor - RCA to BNC",
+            "Quantity": "6",
+            "Notes, #": "w/mixer",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Batteries for Wireless AA'S",
+            "Quantity": "12",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "DI BOX",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Kramer 728 w cables",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Projector Table",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "PCDI #79",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Power Strip",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Projector HDMI & VGA",
+            "Quantity": "1",
+            "Notes, #": "#32",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "6ft RCA to 1/4 pair",
+            "Quantity": "1",
+            "Notes, #": "1 extra, 2 total",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "6ft Purple Cable",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "small cart.",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Table mic Stands",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Tall mic stand",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Trifold Screen 6ft",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Wirless HH Clip",
+            "Quantity": "1",
+            "Notes, #": "#2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        }
+    ],
+    "Hilton 301": [
+        {
+            "Name": "Small Anchor",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "1",
+            "Notes, #": "#22",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Power Strip",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft AC",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Tall Mic Stands",
+            "Quantity": "6",
+            "Notes, #": "No clips, used for wig head holders",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        }
+    ],
+    "Hilton Galleria 7": [
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "5",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 AC",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft spk",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "8 Channel Mixer",
+            "Quantity": "1",
+            "Notes, #": "#31",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "PCD # 1021",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Power Strip",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Speaker Stands",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Speakers",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "TABLE STANDS",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Tall Mic Stand",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Plasma TV Stand",
+            "Quantity": "1",
+            "Notes, #": "labed \"Westin Chastain\"",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        }
+    ],
+    "Hilton Galleria 8": [
+        {
+            "Name": "5 ft XLR Cable",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "6 ft RCA to 1/4 pair",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft AC",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft HDMI",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "8 Ch Powered Mixer",
+            "Quantity": "1",
+            "Notes, #": "#35",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "600 Ohm Isolation box",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Blue Ray Player",
+            "Quantity": "1",
+            "Notes, #": "#79",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "1",
+            "Notes, #": "#1020",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Power Strip",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Projector for HDMI/VGA",
+            "Quantity": "1",
+            "Notes, #": "#134",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Cart, small",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Speaker Stands",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Speakers, Non-Powered",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Table Mic Stand",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Tripod Screen 6 ft",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        }
+    ],
+    "Hilton Grand East": [
+        {
+            "Name": "Projector w/ HDMI port",
+            "Quantity": "1",
+            "Notes, #": "#127",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Speakers, unpowered",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "10 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "6 ft XLR",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Snake, 10 x 6 x 50",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "100 ft AC",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "12 ch Mixer",
+            "Quantity": "1",
+            "Notes, #": "#900? 903? 907? last number unclear. Neutrix adapters in board case",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "EV Subwoofers",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft Speaker cable (aka 1/4)",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft AC",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft BNC",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft Speaker cable (aka 1/4)",
+            "Quantity": "7",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft XLR",
+            "Quantity": "12",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "9 x 12 Rear Screen w/ skirt",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "9v Batteries for Wireless",
+            "Quantity": "12",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Blue Ray Player",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Adaptor - BNC to RCA",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "DI box w/ Pads",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Adaptor - Mac A/V ",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Cart, medium",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Monitor Onstage Speaker",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "1",
+            "Notes, #": "#281",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Power Strips",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Converter - RCA to 1/4 pair",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "SM58 Mics",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Speaker Stands",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Tall Mic Stand w/ clip",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Wireless Combo",
+            "Quantity": "2",
+            "Notes, #": "#10",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        }
+    ],
+    "Hilton Grand West": [
+        {
+            "Name": "1 x 2 HDMI Splitter",
+            "Quantity": "1",
+            "Notes, #": "#127",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "10 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "6 ft XLR",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "100 ft AC",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "16 ch Mixer",
+            "Quantity": "1",
+            "Notes, #": "#103",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft AC",
+            "Quantity": "10",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft BNC",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft HDMI",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft Speaker cable (aka 1/4)",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft XLR",
+            "Quantity": "22",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "9 x 12 Rear Screen w/ skirt",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Amp Rack for Subwoofers",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "9v Batteries for Wireless",
+            "Quantity": "18",
+            "Notes, #": "11 In",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Blue Ray Player",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Adaptor - BNC to RCA",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Adaptor - XLR F to F",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Adaptor - XLR M to M",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "DI box",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Crossover",
+            "Quantity": "1"
+        },
+        {
+            "Name": "Green Y Cables",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Cart, medium",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Onstage Video Monitor",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "1",
+            "Notes, #": "#279",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Power Strips",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Powered Speakers",
+            "Quantity": "6",
+            "Notes, #": "(2 of which onstage)",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Powered Subwoofers",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Projector rear HDMI",
+            "Quantity": "1",
+            "Notes, #": "#128",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Purple Cables for DI",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "RCA to 1/4 pair",
+            "Quantity": "1",
+            "Notes, #": "#10",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "SM58 Mics",
+            "Quantity": "8",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Snake, 10 x 8 x 50",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Speaker Stands",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Tall Boom Stand w/ clip",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Tall Mic Stand w/ clip",
+            "Quantity": "2",
+            "Notes, #": "1 extra stand",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Wireless Combo",
+            "Quantity": "3",
+            "Notes, #": "#11",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        }
+    ],
+    "Hilton Grand Salon": [
+        {
+            "Name": "QSC KLA",
+            "Quantity": "8",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "QSC K18 Subwoofers",
+            "Quantity": "8",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "KLA Fly Bars/Shackles",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Subwoofer Platforms",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "15 ft Geni Lifts",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Geni/KLA Forks",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "QSC 10.2 Speakers",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "2 ft XLR/XLR for Subwoofers",
+            "Quantity": "8",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50' Black AC",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "100 ft Black AC for KLA",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "100 ft 4 ch Snake for KLA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft Snake for KLA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Shure P4800",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "AC Q Box for Subwoofers",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Rig Box 3 Set for KLA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "DI",
+            "Quantity": "4",
+            "Notes, #": "JD",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Purple (aka Spkr or 1/4) Cables",
+            "Quantity": "4",
+            "Notes, #": "JD",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "7",
+            "Notes, #": "JD",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Short StarWar Stand",
+            "Quantity": "7",
+            "Notes, #": "JD",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Adaptor - 1/4 to RCA Stereo",
+            "Quantity": "2",
+            "Notes, #": "JD",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Adaptor - 1/8 to 1/4 Stereo",
+            "Quantity": "2",
+            "Notes, #": "JD",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "RAPCO PCDI",
+            "Quantity": "2",
+            "Notes, #": "JD",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft XLR/XLR",
+            "Quantity": "5",
+            "Notes, #": "sheet said 20",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft XLR/XLR",
+            "Quantity": "3",
+            "Notes, #": "sheet said 20",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Quad Boxes",
+            "Quantity": "1",
+            "Notes, #": "sheet said 4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "100 ft AC",
+            "Quantity": "2",
+            "Notes, #": "sheet said 6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft AC",
+            "Quantity": "4",
+            "Notes, #": "sheet said 6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Power Strips",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "200 ft 24 x 8 Snake",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft 8 ch Jumper Snake",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Behringer X32",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Wireless Combo",
+            "Quantity": "1?",
+            "Notes, #": "sheet had no number",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Kramer 72N",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "3 ft HDMI",
+            "Quantity": "1",
+            "Notes, #": "on the sheet, 1 is checked, but there is a 7, so riddle me that",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "3 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "200 ft SDI",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "SDI DA 1x4",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "HDMI/SDI",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "SDI/HDMI",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        }
+    ],
+    "Hyatt Chicago": [
+        {
+            "Name": "25 ft AC",
+            "Quantity": "9",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft BNC",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "42 in Plasma",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Adaptor - F Type to BNC",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Power Strip",
+            "Quantity": "8",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Ratchet Strap",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Cart, tall",
+            "Quantity": "1",
+            "Notes, #": "for plasma"
+        }
+    ],
+    "Hyatt Grand Hall C": [
+        {
+            "Name": "100 ft Spkr (aka 1/4)",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft AC",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "8",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "6 ft XLR",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "65 in Plasma",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "9v Batteries for Wireless",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "6 Ch Mixer, powered",
+            "Quantity": "1",
+            "Notes, #": "#78",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Flip Chart",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Megaphone",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Power Strips",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speakers",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speaker Stands",
+            "Quantity": "2",
+            "Notes, #": "taken from Harris",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Stand for Plasma",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Table Stands",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Wireless Combo",
+            "Quantity": "1",
+            "Notes, #": "#???",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Duct Tape, Yellow",
+            "Quantity": "6",
+            "Notes, #": "3 taken to distribute to Marriot & Sheraton Tech Ops",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Document Projector",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        }
+    ],
+    "Hyatt Grand Hall D": [
+        {
+            "Name": "100 ft Spkr (aka 1/4)",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft AC",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "8",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "100 ft HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "6 ft XLR",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "65 in Plasma",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "9v Batteries for Wireless",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "10 Ch Mixer, powered",
+            "Quantity": "1",
+            "Notes, #": "#19",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Flip Chart",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Mac Adaptor Kit",
+            "Quantity": "1",
+            "Notes, #": "from Harris",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Power Strips",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Ratchet Strap",
+            "Quantity": "2",
+            "Thurs": "X"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Speakers",
+            "Quantity": "2",
+            "Notes, #": "1 taken from Harris",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Speaker Stands",
+            "Quantity": "2",
+            "Notes, #": "taken from Harris",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Stand for Plasma",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Table Stands",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Wireless Combo",
+            "Quantity": "1",
+            "Notes, #": "#20",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Duct Tape, Yellow",
+            "Quantity": "6",
+            "Notes, #": "3 taken to distribute to Marriot & Sheraton Tech Ops",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Wolfvision Document Projector",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        }
+    ],
+    "Hyatt Hanover CDE": [
+        {
+            "Name": "25 ft AC",
+            "Quantity": "2",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft BNC",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft Spkr (aka 1/4)",
+            "Quantity": "2",
+            "Thurs": "X"
+        },
+        {
+            "Name": "100 ft Spkr (aka 1/4)",
+            "Quantity": "2",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft VGA",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft XLR",
+            "Quantity": "10",
+            "Thurs": "X"
+        },
+        {
+            "Name": "6 ft HDMI",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "6 ft RCA to 1/4 pair",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "10 ch Mixer",
+            "Quantity": "1",
+            "Notes, #": "#93",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Adaptor - BNC to RCA",
+            "Quantity": "2",
+            "Thurs": "X"
+        },
+        {
+            "Name": "9v Batteries for Wireless",
+            "Quantity": "6",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Blue Ray Player",
+            "Quantity": "1",
+            "Notes, #": "#88",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Grey Ground Lifts",
+            "Quantity": "1",
+            "Notes, #": "dunno what this is",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Converter - HDMI to VGA",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "1",
+            "Notes, #": "#258",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Power Strips",
+            "Quantity": "3",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Projector, VGA",
+            "Quantity": "1",
+            "Notes, #": "#55",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Adaptor - RCA to 1/4",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Duct Tape, Black",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Shure LED Mixer",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "6",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Cart, small",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Speaker Stands",
+            "Quantity": "4",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Speakers",
+            "Quantity": "4",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Boom Mic Stands",
+            "Quantity": "3",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Table Mic Stands",
+            "Quantity": "4",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Tall Mic Stands",
+            "Quantity": "3",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Tripod Screen, 8 ft",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Wireless Combo Mic",
+            "Quantity": "1",
+            "Notes, #": "#21",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Adaptor - RCA 2f to 1m (Y)",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Adaptor - 1/4 to RCA dual",
+            "Quantity": "2",
+            "Thurs": "X"
+        }
+    ],
+    "Marriot 103-4": [
+        {
+            "Name": "10 ft HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft AC",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "5",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft SPKR",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "6 ft XLR",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "8 Ch Mixer",
+            "Quantity": "1",
+            "Notes, #": "#12",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "10 ft RCA to 1/4 Pair",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Batteries for Wireless",
+            "Quantity": "8",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Black Drapes",
+            "Quantity": "9",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Blue Ray Player",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "BNC to RCA Adaptor",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "HDMI to VGA Converter",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "P&D Cross",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "P&D UPS SHORT",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "1",
+            "Notes, #": "#280",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Power Strip",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Projector",
+            "Quantity": "2",
+            "Notes, #": "#62; both labelled for L504",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Projector Table",
+            "Quantity": "2",
+            "Notes, #": "#20",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "SM 58",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speaker Stands",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speakers",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Table Stands",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Tall Mic Stand.",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Tripod Screen 7 ft",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Wireless HH",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        }
+    ],
+    "Hyatt Hanover FGH": [
+        {
+            "Name": "16 Ch Mackie w reverb",
+            "Quantity": "1",
+            "Notes, #": "#120",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft ac",
+            "Quantity": "4",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft xfr",
+            "Quantity": "12",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "1 50 ft bnc",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "1 50 ft vga",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 FT SPKR",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft XLR",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft XLR",
+            "Quantity": "4",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "6 ft HDM1",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "100 ft SPK Cables",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "20 x 50 snake.",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "adaptor 1/4 to xlrf",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "adaptor 1/4 to XLRM",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "adaptor bnc to rca",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "boom stands",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "D1 boxes",
+            "Quantity": "4",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Grey Ground Lifts.",
+            "Quantity": "4",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "speakers unpowered. J61 12ft",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "1",
+            "Notes, #": "#78",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "power strips",
+            "Quantity": "4",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "powered monitors SHS wedges 12in",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Projector, VGA",
+            "Quantity": "1",
+            "Notes, #": "#100",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "purple cables",
+            "Quantity": "8",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "QSC 1400 amp in SKB rack",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "SM57",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "4",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "small cart",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "speaker stands",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "100ft XLR in mixer case",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Tall mic stands",
+            "Quantity": "3",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Triipod Screen 8ft",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Wireless combo",
+            "Quantity": "2",
+            "Notes, #": "#22",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Batt, 9V",
+            "Quantity": "12",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "6ft spkr cables (1/4)",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        }
+    ],
+    "Hyatt Harris TECH OPS": [
+        {
+            "Name": "25 ft AC",
+            "Quantity": "20",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft HDMI",
+            "Quantity": "5",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft VGA",
+            "Quantity": "5",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "20",
+            "Thurs": "X"
+        },
+        {
+            "Name": "42 in Plasma TV",
+            "Quantity": "2",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Tripod Screen, 5 ft",
+            "Quantity": "2",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft Spkr (aka 1/4)",
+            "Quantity": "6",
+            "Thurs": "X"
+        },
+        {
+            "Name": "6 ft 1/4 to RCA pair",
+            "Quantity": "3",
+            "Thurs": "X"
+        },
+        {
+            "Name": "8 ch Mixer",
+            "Quantity": "1",
+            "Notes, #": "#79",
+            "Thurs": "X"
+        },
+        {
+            "Name": "AA Batteries for Wireless",
+            "Quantity": "24",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Adaptor - 1/4 to XLR m",
+            "Quantity": "1",
+            "Notes, #": "with Mixer",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Adaptor - BNC to F",
+            "Quantity": "5",
+            "Notes, #": "only 2?",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Adaptor - BNC to RCA",
+            "Quantity": "6",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Adaptor - HDMI to VGA",
+            "Quantity": "2",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Adaptor Kit Misc",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Blue Ray Player",
+            "Quantity": "2",
+            "Notes, #": "#97, #98, short HDMI",
+            "Thurs": "X"
+        },
+        {
+            "Name": "BNC Barrels",
+            "Quantity": "6",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Boom Stands",
+            "Quantity": "4",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Computer for Video",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Document Projector",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Flip Chart w/ Markers",
+            "Quantity": "2",
+            "Thurs": "X"
+        },
+        {
+            "Name": "HDMI Projector",
+            "Quantity": "1",
+            "Notes, #": "#37",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Mac Dongle Kit",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Cart, med",
+            "Quantity": "2",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Megaphone for REGINA",
+            "Quantity": "1"
+        },
+        {
+            "Name": "Megaphones for PARADE",
+            "Quantity": "5",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Microphone Clips",
+            "Quantity": "10",
+            "Thurs": "X"
+        },
+        {
+            "Name": "MMI DVI Camera",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Overhead Projector",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "2",
+            "Notes, #": "#1004, #36",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Power Strips",
+            "Quantity": "20",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Projector",
+            "Quantity": "2",
+            "Notes, #": "#53, #49",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Ratchet Straps",
+            "Quantity": "4",
+            "Notes, #": "in plasma case",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Duct Tape Rolls, Black",
+            "Quantity": "6",
+            "Notes, #": "only 2",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Shure Prologue Mixer",
+            "Quantity": "2",
+            "Thurs": "X"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "6",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Small Fender",
+            "Quantity": "1",
+            "Notes, #": "#73, \"to repeelo\"???",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Tripod, small, for DVI Camera",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Speaker Stands",
+            "Quantity": "4",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Speakers, Unpowered",
+            "Quantity": "2",
+            "Notes, #": "8 in wedge Kustom",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Table Stands",
+            "Quantity": "6",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Tall Mic Stands",
+            "Quantity": "6",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Whiteboard",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Wireless Combo",
+            "Quantity": "2",
+            "Notes, #": "#29, #???",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Wolfvision",
+            "Quantity": "1",
+            "Thurs": "X"
+        }
+    ],
+    "Hyatt Marietta": [
+        {
+            "Name": "SM58",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Table Mic Stand",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        }
+    ],
+    "Hyatt Regency 5": [
+        {
+            "Name": "10 ft bnc.",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "10 ft xlr",
+            "Quantity": "3",
+            "Notes, #": "No 10ft XLR but 3FT XLR's",
+            "Thurs": "X"
+        },
+        {
+            "Name": "100 spkr",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "16 x 50 snake",
+            "Quantity": "1",
+            "Notes, #": "built into the rack",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft xlr",
+            "Quantity": "6",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft BNC",
+            "Quantity": "3",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft HDMI",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft spkr",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft vga",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "6 ft rca to 1/4 pair",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "8 X 10 Screen Front",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "adaptors rca to bnc",
+            "Quantity": "8",
+            "Thurs": "X"
+        },
+        {
+            "Name": "9v batteries for wireless",
+            "Quantity": "12",
+            "Thurs": "X"
+        },
+        {
+            "Name": "big projector",
+            "Quantity": "1",
+            "Notes, #": "#126",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Blue ray player w comp",
+            "Quantity": "1",
+            "Notes, #": "#51",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Family Life Rack.",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "1",
+            "Notes, #": "#85",
+            "Thurs": "X"
+        },
+        {
+            "Name": "projector table.",
+            "Quantity": "1",
+            "Notes, #": "#13",
+            "Thurs": "X"
+        },
+        {
+            "Name": "rolls duct tape.",
+            "Quantity": "1",
+            "Thurs": "X"
+        },
+        {
+            "Name": "skirt for screen",
+            "Quantity": "1",
+            "Notes, #": "Recv'd Velcro need Snap",
+            "Thurs": "X"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "5",
+            "Thurs": "X"
+        },
+        {
+            "Name": "speakers passive",
+            "Quantity": "2",
+            "Thurs": "X"
+        },
+        {
+            "Name": "speaker stands.",
+            "Quantity": "2",
+            "Thurs": "X"
+        },
+        {
+            "Name": "table stands",
+            "Quantity": "5",
+            "Thurs": "X"
+        },
+        {
+            "Name": "wireless cornbos",
+            "Quantity": "2",
+            "Notes, #": "#26, #???",
+            "Thurs": "X"
+        },
+        {
+            "Name": "CD player"
+        }
+    ],
+    "Hyatt Regency 67": [
+        {
+            "Name": "EV 15",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "EV 2 x 18 Subs",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "CGM 15\" MON",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "QSC Gx7",
+            "Quantity": "2",
+            "Notes, #": "2 Per Rack",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "QSC 1310",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "A & H GL3 32CH",
+            "Quantity": "1",
+            "Notes, #": "Power Supply in Case",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "1/3 EQ",
+            "Quantity": "6",
+            "Notes, #": "Rack Tailed",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "50' NEUTRIK/NEUTRIK",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "100' NEUTRIK/NEUTRIK",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "50' SPEAKER 1/4",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "50 ft XLR",
+            "Quantity": "20",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "16",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "24 X 8 200 SNAKE",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "Purple 1/4 Cable",
+            "Quantity": "16",
+            "Notes, #": "Listed twice, both bin 8",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "DI",
+            "Quantity": "8",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "SHS OM 450",
+            "Quantity": "8",
+            "Notes, #": "CC57",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "Mic Clips",
+            "Quantity": "14",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "BATA 52",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "Wireless",
+            "Quantity": "???",
+            "Notes, #": "NEED SNAKE"
+        },
+        {
+            "Name": "SM81",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "Boom Stands",
+            "Quantity": "16",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "Kick Stand",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "100 ft SDI",
+            "Quantity": "5",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "50 ft SDI",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "BNC Barrels",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "25 ft HDMI",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "25 ft VGA",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "FOH MONITORS",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "Stage Monitor",
+            "Quantity": "3",
+            "Notes, #": "HDMI in, 32 in, #42",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "Kramer 730",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "25 ft HDMI",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "25 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "3 ft HDMI",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "SDI to HDMI",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "SDI 1 x 4",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "BI SDI.HDMI   HDMU.SDI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "Onstage Video Monitor",
+            "Quantity": "1",
+            "Notes, #": "Visio, #32",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "100 ft AC",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "50 ft AC",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "Power Strips",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "QBOXES",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "Short Star Stands",
+            "Quantity": "6",
+            "Notes, #": "WITH  58 CLIPS",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "DI",
+            "Quantity": "8",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "FOH VID RACK"
+        },
+        {
+            "Name": "KRAMSE  728",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "Bluray Player",
+            "Quantity": "1",
+            "Notes, #": "#???",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "CD Player",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "Cable PKG",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "HDMI 1 x 2",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "Camera Platforms",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "CAMERA W/PS +ZOOM",
+            "Quantity": "1",
+            "Notes, #": "Canon XA25, #33",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "50 ft Snake",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "Wireless Lav Mics",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "Wireless SM58 w/ Clips",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X"
+        },
+        {
+            "Name": "Camera Tripod",
+            "Quantity": "1",
+            "Notes, #": "FM18",
+            "In (Tue/Wed)": "X"
+        }
+    ],
+    "Hyatt Roswell": [
+        {
+            "Name": "25 ft AC",
+            "Quantity": "2"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "6"
+        },
+        {
+            "Name": "50 ft Spkr",
+            "Quantity": "2"
+        },
+        {
+            "Name": "8 ch Mixer",
+            "Quantity": "1",
+            "Notes, #": "#34"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "1",
+            "Notes, #": "#1013"
+        },
+        {
+            "Name": "Power Strip",
+            "Quantity": "4",
+            "Notes, #": "listed twice"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "3"
+        },
+        {
+            "Name": "Speakers",
+            "Quantity": "2"
+        },
+        {
+            "Name": "Speaker Stands",
+            "Quantity": "2"
+        },
+        {
+            "Name": "Table Mic Stands",
+            "Quantity": "3"
+        },
+        {
+            "Name": "Tall Mic Stand",
+            "Quantity": "1"
+        },
+        {
+            "Name": "Wireless Handheld",
+            "Quantity": "#28"
+        },
+        {
+            "Name": "9v Batteries for Wireless",
+            "Quantity": "6"
+        }
+    ],
+    "Hyatt Spring": [
+        {
+            "Name": "10 ft HDMI",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft AC",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft BNC",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft Spkr (aka 1/4)",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft VGA",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "4",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "6 ft RCA to 1/4 pair",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "10 ch Mixer",
+            "Quantity": "1",
+            "Notes, #": "#83 listed, but no mixer, using the one in the wall",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Adaptor - BNC to RCA",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Blue Ray Player",
+            "Quantity": "1",
+            "Notes, #": "#80",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Converter - HDMI to VGA",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "1",
+            "Notes, #": "#275",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Power Strip",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Projector Table",
+            "Quantity": "1",
+            "Notes, #": "cart, med",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Projector, VGA",
+            "Quantity": "1",
+            "Notes, #": "#31",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "3",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speakers",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speaker Stands",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Table Mic Stands",
+            "Quantity": "3",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Tripod Screen, 5 ft",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        }
+    ],
+    "Hyatt University": [
+        {
+            "Name": "SM58",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Table Mic Stand",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        }
+    ],
+    "Marriot L504-5 TECH OPS": [
+        {
+            "Name": "25 ft AC",
+            "Quantity": "20",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft HDMI",
+            "Quantity": "5",
+            "Notes, #": "2 to M103",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft VGA",
+            "Quantity": "5",
+            "Notes, #": "2 to A707",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "20",
+            "Notes, #": "16 to Imp. Ballrm.",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "42 in Plasma TV",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft Spkr (aka 1/4)",
+            "Quantity": "6",
+            "Notes, #": "1 to A707",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "6 ft 1/4 to RCA Pair",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "12 ch Mixer",
+            "Quantity": "1",
+            "Notes, #": "#117",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "9v Batteries for Wireless",
+            "Quantity": "12",
+            "Notes, #": "full pack w/ wireless",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Adaptor - BNC to F",
+            "Quantity": "6",
+            "Notes, #": "only 5/6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Adaptor Kit Misc.",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Adaptor - BNC to RCA",
+            "Quantity": "6",
+            "Notes, #": "only 5/6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Blue Ray Player",
+            "Quantity": "2",
+            "Notes, #": "# 73, #20",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "BNC Barrels",
+            "Quantity": "6",
+            "Notes, #": "only 5/6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Boom Stands",
+            "Quantity": "4",
+            "Notes, #": "only 3/4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Computer for Video",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Flip Chart w/ Markers",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Mac Dongle Kit",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Cart, medium",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Microphone Clips",
+            "Quantity": "14",
+            "Notes, #": "dual set, 14 in total",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "MMI DVI Camera",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "2",
+            "Notes, #": "#309, #274",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Power Strips",
+            "Quantity": "20",
+            "Notes, #": "only 19",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Projector",
+            "Quantity": "2",
+            "Notes, #": "#97, #109, 1 taken to M103, \"return #62 projector + 7 ft screen\"",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Projector Table",
+            "Quantity": "1",
+            "Notes, #": "#9, taken to M103",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Tripod Screen, 5 ft",
+            "Quantity": "2",
+            "Notes, #": "2 to M103, +1 proj. screen from M401",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Ratchet Straps",
+            "Quantity": "2",
+            "Notes, #": "missing"
+        },
+        {
+            "Name": "Duct Tape Rolls, Black",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Fender Mixer, small",
+            "Quantity": "1",
+            "Notes, #": "#46",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Tripod, small, for DVI Cam",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speaker Stands",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speakers, unpowered",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Table Mic Stands",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Tall Mic Stands",
+            "Quantity": "6",
+            "Notes, #": "1 extra = 7",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Whiteboard",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Wireless Combo Mic",
+            "Quantity": "2",
+            "Notes, #": "#36, #???",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Wireless Clip",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "ADDED FROM MMI:"
+        },
+        {
+            "Name": "L 50 Cables",
+            "Quantity": "3",
+            "Fri": "X"
+        },
+        {
+            "Name": "Multi CD Player",
+            "Quantity": "1",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "39",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft VGA",
+            "Quantity": "2",
+            "Notes, #": "1 taken to A707",
+            "Fri": "X"
+        }
+    ],
+    "Marriot A601-2": [
+        {
+            "Name": "10 Ch Mixer, powered",
+            "Quantity": "1",
+            "Notes, #": "#228",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft XLR",
+            "Quantity": "1"
+        },
+        {
+            "Name": "100 ft BNC",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "100 ft HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "100 ft XLR",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "600 Ohm Tube",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Adaptor - 1/4 mono to XLR M",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "6 ft RCA Pair to 1/4",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Tripod Screen, 6 ft",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Snake, 9 x 50",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Blue Ray Player",
+            "Quantity": "1",
+            "Notes, #": "#92",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "CD Player",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "DI Box",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "1",
+            "Notes, #": "#1017",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Projector, VGA/HDMI",
+            "Quantity": "1",
+            "Notes, #": "#???",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Purple 1/4 Cable (Spkr)",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Cart, small",
+            "Quantity": "1",
+            "Notes, #": "for projector",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Tall Mic Stand",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "10 ft XLR",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft Spkr (aka 1/4)",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "6 ft XLR",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Adaptor - BNC to RCA",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Duct Tape Rolls",
+            "Quantity": "2"
+        },
+        {
+            "Name": "Speaker Stands",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speakers",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Wireless HH",
+            "Quantity": "2",
+            "Notes, #": "#57, #???",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft AC",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Power Strip",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Table Stands",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "AA Batteries for Wireless",
+            "Quantity": "24",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        }
+    ],
+    "Marriot L401-403": [
+        {
+            "Name": "10 ch Mixer",
+            "Quantity": "1",
+            "Notes, #": "#21",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft AC",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft SPKR",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "8",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft AC",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft BNC",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft SPKR",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft VGA",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "6 ft RCA (3 wire)",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "6 ft HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "6 ft RCA to 1/4 pair",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "6 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "6 ft XLR",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "AA Batteries for wireless",
+            "Quantity": "1 strip",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Blueray Player ",
+            "Quantity": "1",
+            "Notes, #": "#89",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Adaptor - BNC to RCA M",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "BNC to VGA, 1 x 5",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Converter - HDMI to VGA",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "1",
+            "Notes, #": "#6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Power Strips",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Projector Tables",
+            "Quantity": "2",
+            "Notes, #": "#14, #15",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Projector, VGA",
+            "Quantity": "2",
+            "Notes, #": "#50, #39",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speaker Stands",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speakers",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Table Stands",
+            "Quantity": "8",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Tall Mic Stand",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Trifold Screen 8 ft",
+            "Quantity": "2",
+            "Notes, #": "got 3",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "VGA DA's",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        }
+    ],
+    "Americas Mart": [
+        {
+            "Name": "25 ft HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "NotLoaded In",
+            "Thurs": "NotLoaded In",
+            "Fri": "NotLoaded In",
+            "Sat": "X"
+        },
+        {
+            "Name": "25 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "NotLoaded In",
+            "Thurs": "NotLoaded In",
+            "Fri": "NotLoaded In",
+            "Sat": "X"
+        },
+        {
+            "Name": "25 ft AC",
+            "Quantity": "3",
+            "In (Tue/Wed)": "NotLoaded In",
+            "Thurs": "NotLoaded In",
+            "Fri": "NotLoaded In",
+            "Sat": "X"
+        },
+        {
+            "Name": "6FT XLR  ",
+            "Quantity": "1",
+            "Notes, #": "change to    2FT",
+            "In (Tue/Wed)": "NotLoaded In",
+            "Thurs": "NotLoaded In",
+            "Fri": "NotLoaded In",
+            "Sat": "X"
+        },
+        {
+            "Name": "2 50 ft spkr cable.",
+            "Quantity": "2",
+            "In (Tue/Wed)": "NotLoaded In",
+            "Thurs": "NotLoaded In",
+            "Fri": "NotLoaded In",
+            "Sat": "X"
+        },
+        {
+            "Name": "1 8 ch pwr mixer # 5",
+            "Quantity": "1",
+            "In (Tue/Wed)": "NotLoaded In",
+            "Thurs": "NotLoaded In",
+            "Fri": "NotLoaded In",
+            "Sat": "X"
+        },
+        {
+            "Name": "Power Strip",
+            "Quantity": "3",
+            "In (Tue/Wed)": "NotLoaded In",
+            "Thurs": "NotLoaded In",
+            "Fri": "NotLoaded In",
+            "Sat": "X"
+        },
+        {
+            "Name": "2 speaker stands",
+            "Quantity": "2",
+            "In (Tue/Wed)": "NotLoaded In",
+            "Thurs": "NotLoaded In",
+            "Fri": "NotLoaded In",
+            "Sat": "X"
+        },
+        {
+            "Name": "2 Speakers     8in   ",
+            "Quantity": "2",
+            "In (Tue/Wed)": "NotLoaded In",
+            "Thurs": "NotLoaded In",
+            "Fri": "NotLoaded In",
+            "Sat": "X"
+        },
+        {
+            "Name": "1 wireless Mic HH  #40",
+            "Quantity": "1",
+            "In (Tue/Wed)": "NotLoaded In",
+            "Thurs": "NotLoaded In",
+            "Fri": "NotLoaded In",
+            "Sat": "X"
+        },
+        {
+            "Name": "Batts for HH   AA's",
+            "Quantity": "12",
+            "In (Tue/Wed)": "NotLoaded In",
+            "Thurs": "NotLoaded In",
+            "Fri": "NotLoaded In",
+            "Sat": "X"
+        },
+        {
+            "Name": "Projector  #64",
+            "Quantity": "1",
+            "Notes, #": "Marked Chadtain A",
+            "In (Tue/Wed)": "NotLoaded In",
+            "Thurs": "NotLoaded In",
+            "Fri": "NotLoaded In",
+            "Sat": "X"
+        },
+        {
+            "Name": "No Screen Requested."
+        }
+    ],
+    "Marriot Imperial Ballroom": [
+        {
+            "Name": "100 ft XLR",
+            "Quantity": "6",
+            "Notes, #": "Listed twice"
+        },
+        {
+            "Name": "50 ft XLR",
+            "Quantity": "2"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "18",
+            "Notes, #": "Listed twice"
+        },
+        {
+            "Name": "Edison Euro",
+            "Quantity": "4"
+        },
+        {
+            "Name": "QBoxes",
+            "Quantity": "4",
+            "Notes, #": "silver boxes"
+        },
+        {
+            "Name": "Power Con",
+            "Quantity": "4",
+            "Notes, #": "blue ends, wrapped together with Q Boxes & Edison Euro cables"
+        },
+        {
+            "Name": "Adapter - 1/4 to XLR m",
+            "Quantity": "2"
+        },
+        {
+            "Name": "Monitor, 12 in powered AC",
+            "Quantity": "2"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "7"
+        },
+        {
+            "Name": "STR WAR Clips",
+            "Quantity": "7",
+            "Notes, #": "mic clips???"
+        },
+        {
+            "Name": "HD Crank Ups",
+            "Quantity": "4"
+        },
+        {
+            "Name": "Kramer SW 72",
+            "Quantity": "2"
+        },
+        {
+            "Name": "Rack AC",
+            "Quantity": "1"
+        },
+        {
+            "Name": "Bluray Player",
+            "Quantity": "1",
+            "Notes, #": "#???"
+        },
+        {
+            "Name": "Ghost aka Audio Noise Stripper",
+            "Quantity": "1"
+        },
+        {
+            "Name": "XLR Split 1 to 2",
+            "Quantity": "1",
+            "Notes, #": "short green XLRs"
+        },
+        {
+            "Name": "Set Rack Wiring",
+            "Quantity": "n/a"
+        },
+        {
+            "Name": "25 ft VGA",
+            "Quantity": "2"
+        },
+        {
+            "Name": "50 ft HDMI",
+            "Quantity": "2"
+        },
+        {
+            "Name": "1 x 4 SDI DA",
+            "Quantity": "1"
+        },
+        {
+            "Name": "100 ft SDI",
+            "Quantity": "5"
+        },
+        {
+            "Name": "Short HDMI",
+            "Quantity": "10+"
+        },
+        {
+            "Name": "Reclockers",
+            "Quantity": "2"
+        },
+        {
+            "Name": "Converter - HDMI to SDI",
+            "Quantity": "3",
+            "Notes, #": "4 on Wed"
+        },
+        {
+            "Name": "Converter - SDI to HDMI",
+            "Quantity": "4",
+            "Notes, #": "3 out of 4 on Wed"
+        },
+        {
+            "Name": "200 ft SDI",
+            "Quantity": "4"
+        },
+        {
+            "Name": "50 ft AC",
+            "Quantity": "6"
+        },
+        {
+            "Name": "100 ft AC",
+            "Quantity": "8"
+        },
+        {
+            "Name": "25 ft AC",
+            "Quantity": "4"
+        },
+        {
+            "Name": "Power Strips",
+            "Quantity": "6"
+        },
+        {
+            "Name": "Camera Platform",
+            "Quantity": "1"
+        },
+        {
+            "Name": "Camera",
+            "Quantity": "1"
+        },
+        {
+            "Name": "PCDI RAPCO",
+            "Quantity": "2"
+        },
+        {
+            "Name": "Projector Tables",
+            "Quantity": "2"
+        },
+        {
+            "Name": "Projector",
+            "Quantity": "2",
+            "Notes, #": "#???, #???"
+        },
+        {
+            "Name": "10 by 10 Fastfold Screen",
+            "Quantity": "2"
+        },
+        {
+            "Name": "Dir Ant",
+            "Quantity": "2"
+        },
+        {
+            "Name": "Wireless Combo Mics/Tailed",
+            "Quantity": "4"
+        },
+        {
+            "Name": "DI",
+            "Quantity": "4"
+        },
+        {
+            "Name": "Purple Cables (1/4)",
+            "Quantity": "4"
+        },
+        {
+            "Name": "1/4 to RCA Stereo",
+            "Quantity": "2"
+        },
+        {
+            "Name": "1/4 to 1/8 Stereo",
+            "Quantity": "2",
+            "Notes, #": "1/4 to phone jack"
+        },
+        {
+            "Name": "1/4 TRS/XLRN",
+            "Quantity": "1"
+        },
+        {
+            "Name": "Boom Stands",
+            "Quantity": "8",
+            "Notes, #": "only 7/8"
+        },
+        {
+            "Name": "Equalizers",
+            "Quantity": "2",
+            "Notes, #": "in w/ Rack AC, one is single, one is dual"
+        },
+        {
+            "Name": "16 ch Mixer",
+            "Quantity": "1"
+        },
+        {
+            "Name": "19 in Video Monitors",
+            "Quantity": "2"
+        },
+        {
+            "Notes, #": "Stuck head sticking out of Sun, broken cable cut 10 ft from speaker kit"
+        }
+    ],
+    "Marriot A703": [
+        {
+            "Name": "10 Ch Mixer",
+            "Quantity": "1",
+            "Notes, #": "#29",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "10 ft HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "10 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft AC",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "7",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft Speaker (1/4)",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "6 ft XLR",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "9v Batteries for Wireless",
+            "Quantity": "12"
+        },
+        {
+            "Name": "Mini Display to Thunderbolt",
+            "Quantity": "1"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "1",
+            "Notes, #": "#32",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Power Strip",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Projector Table",
+            "Quantity": "1",
+            "Notes, #": "#3",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Projector VGA/HDMI",
+            "Quantity": "1",
+            "Notes, #": "#9",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Table Mic Stands",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Small Speakers",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speaker Stands",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Tripod Screen 6 ft",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Wireless Combos (lavalier)",
+            "Quantity": "2"
+        },
+        {
+            "Name": "25 ft BNC",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft BNC",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Adaptor - RCA to BNC",
+            "Quantity": "2"
+        },
+        {
+            "Name": "BNC In Line",
+            "Quantity": "2"
+        }
+    ],
+    "Marriot A704": [
+        {
+            "Name": "5 ft HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "10 Ch Mixer",
+            "Quantity": "1",
+            "Notes, #": "#100",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "10 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft AC",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "7",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft Speaker (1/4)",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "6 ft XLR",
+            "Quantity": "2",
+            "Notes, #": "1 is ~3 ft",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "9v Batteries for Wireless",
+            "Quantity": "18",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Mini Display to Thunderbolt",
+            "Quantity": "1"
+        },
+        {
+            "Name": "P&D Ups",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "P&D Cross",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "P&D Bases",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "P&D Drapes (any color)",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "1",
+            "Notes, #": "#282",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Power Strip",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Projector Table",
+            "Quantity": "1",
+            "Notes, #": "#2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Projector VGA/HDMI",
+            "Quantity": "1",
+            "Notes, #": "#44",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Table Mic Stands",
+            "Quantity": "5",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "5",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Small Speakers",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speaker Stands",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Tripod Screen 6 ft",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Wireless Combos (lavalier)",
+            "Quantity": "3",
+            "Notes, #": "#32",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        }
+    ],
+    "Marriot A706": [
+        {
+            "Name": "6 ft HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "6 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft AC",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "8",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft HDMI",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft Spkr Cable",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 in Plasma w/ rollers",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "8 ch mixer",
+            "Quantity": "1",
+            "Notes, #": "#8",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "AA Batteries",
+            "Quantity": "12",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "HDMI Splitter 1x2",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "1",
+            "Notes, #": "#285",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Power Strips",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "SM 58",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Speakers (2 inputs)",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Spkr Stands",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Table Mic Stands",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Tall Mic Stand",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "VGA to HDMI Converter",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Wireless Mic Handheld w/ clip",
+            "Quantity": "1",
+            "Notes, #": "#33",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        }
+    ],
+    "Marriot A707": [
+        {
+            "Name": "6 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "6 ft XLR",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "6 ft HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "10 ft HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft AC",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft Spkr (aka 1/4)",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "5",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft HDMI",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft XLR",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 in Plasma on Stands",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "8 Ch mixer",
+            "Quantity": "1",
+            "Notes, #": "#20",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "AA Batteries",
+            "Quantity": "12",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "HDMI Splitter 1 x 2",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "4",
+            "Notes, #": "#287",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Power Strips",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "SM 58",
+            "Quantity": "5",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speaker Stands",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speakers",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Table stands",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Tall Mic Stand",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Wireless HH",
+            "Quantity": "1",
+            "Notes, #": "#34",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "VGA DA 1 x 8",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        }
+    ],
+    "Westin Augusta AB": [
+        {
+            "Name": "100 ft HDMI",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "100 ft Spkr (aka 1/4)",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft HDMI",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft AC",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "9",
+            "Notes, #": "1 extra",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "3 ft XLR",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft Spkr (aka 1/4)",
+            "Quantity": "4"
+        },
+        {
+            "Name": "50 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 in Plasma w/ Mount",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "6 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "6 ft XLR",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "6 x 8 fastfold Screen, rear",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "10 ch Mixer, Powered",
+            "Quantity": "1",
+            "Notes, #": "#98",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "AA Batteries for Wireless",
+            "Quantity": "12",
+            "Notes, #": "(possibly 9v, not specified)",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "HDMI Splitter, 1 to 4",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Onstage Video Monitor",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Onstage Audio Monitor",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "P&D 14 ft Black Drapes",
+            "Quantity": "36",
+            "Notes, #": "(2 boxes)",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "P&D Crosses",
+            "Quantity": "12",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "P&D Ups and Bases",
+            "Quantity": "11",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "1",
+            "Notes, #": "#1018???",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Power Strip",
+            "Quantity": "5",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Projector HiRes HDMI short throw",
+            "Quantity": "1",
+            "Notes, #": "#54",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "5",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speaker Stands",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speakers",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        }
+    ],
+    "Sheraton Exec. Board. TECH OPS": [
+        {
+            "Name": "6 ft XLR",
+            "Quantity": "3",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "8",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft AC",
+            "Quantity": "4",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft BNC",
+            "Quantity": "3",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft HDMI",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft Plasma Screen",
+            "Quantity": "1",
+            "Notes, #": "seems like an error...",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft Spkr (aka 1/4)",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft VGA",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "10 Ch Mixer, unpowered",
+            "Quantity": "1",
+            "Notes, #": "#114",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Adaptor - VGA to HDMI",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Adaptor - 1/4 to RCA pair, 6 ft",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Adaptor - BNC to F",
+            "Quantity": "4",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "AA Batteries for WIreless",
+            "Quantity": "24",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Blueray Player w/ HDMI",
+            "Quantity": "1",
+            "Notes, #": "#86",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Boom Mic Stand",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Cart, med",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Fender mixer",
+            "Quantity": "1",
+            "Notes, #": "#43",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Flip Chart w/ Markers",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Mac Dongle Kit",
+            "Quantity": "1"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "3",
+            "Notes, #": "#253, #283, #34",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Power Strips",
+            "Quantity": "10",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Projector, HDMI",
+            "Quantity": "1",
+            "Notes, #": "#???",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Gaff Tape, roll",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speaker Stands",
+            "Quantity": "2",
+            "Notes, #": "6 extra = 8",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speakers",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Tall Mic Stands",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Tripod Screen, 5 ft",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Wireless Combo Mic",
+            "Quantity": "2",
+            "Notes, #": "#46, #???",
+            "Thurs": "X",
+            "Fri": "X"
+        }
+    ],
+    "Sheraton Atlanta": [
+        {
+            "Name": "6 ft XLR",
+            "Quantity": "3",
+            "Notes, #": "listed twice"
+        },
+        {
+            "Name": "25 ft AC",
+            "Quantity": "5",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft VGA",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "5",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft HDMI",
+            "Quantity": "2",
+            "Notes, #": "1 not used",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft HDMI",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft Spkr (aka 1/4)",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "55 in Plasma",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "8 channel mixer",
+            "Quantity": "1",
+            "Notes, #": "#16",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "AA Batteries for WIreless",
+            "Quantity": "24",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Cart for Plasma",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "HDMI Splitter, 1 x 4",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Mac Adaptor Kit",
+            "Quantity": "1",
+            "Notes, #": "missing/not in bin"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "1",
+            "Notes, #": "#270",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Power Strip",
+            "Quantity": "3",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Ratchet Straps",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "4",
+            "Notes, #": "1 bad mic",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Cart, small",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speakers",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speaker stands",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Table Mic Stands",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Wireless HH Mic",
+            "Quantity": "2",
+            "Notes, #": "#58, #???",
+            "Thurs": "X",
+            "Fri": "X"
+        }
+    ],
+    "Sheraton Augusta": [
+        {
+            "Name": "6 ft XLR",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft AC",
+            "Quantity": "3",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft VGA",
+            "Quantity": "1",
+            "Notes, #": "unused",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft HDMI",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "6",
+            "Notes, #": "Only 5, all 5 unused",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft Spkr (aka 1/4)",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Adaptor - 1/4 to RCA pair",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "8 channel mixer",
+            "Quantity": "1",
+            "Notes, #": "#27",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "AA Batteries for WIreless",
+            "Quantity": "12",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Blueray Player",
+            "Quantity": "1",
+            "Notes, #": "#81",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "1",
+            "Notes, #": "#262",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "P&D Ups",
+            "Quantity": "4",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "P&D Bases",
+            "Quantity": "4",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "P&D Crosses",
+            "Quantity": "3",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Black Drapes",
+            "Quantity": "9",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Power Strips",
+            "Quantity": "3",
+            "Notes, #": "unused",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 in Plasma",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "1",
+            "Notes, #": "unused",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speaker Stands",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speakers",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Table Mic Stands",
+            "Quantity": "1",
+            "Notes, #": "unused",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Rolling Stand for Plasma",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Wireless Combo Mic",
+            "Quantity": "1",
+            "Notes, #": "#42",
+            "Thurs": "X",
+            "Fri": "X"
+        }
+    ],
+    "Sheraton Macon": [
+        {
+            "Name": "10 ft VGA",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft AC",
+            "Quantity": "3",
+            "Notes, #": "1 unused",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "5",
+            "Notes, #": "1 extra unused",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft HDMI",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "42 in Plasma",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft Spkr (aka 1/4)",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Kustom Mixer",
+            "Quantity": "1",
+            "Notes, #": "#39",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Power Strips",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "3",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speaker Stands",
+            "Quantity": "2",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Stand for Plasma",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Table Mic Stands",
+            "Quantity": "1",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Wireless Combo Mic",
+            "Quantity": "1",
+            "Notes, #": "#42",
+            "Thurs": "X",
+            "Fri": "X"
+        }
+    ],
+    "Westin Augusta C": [
+        {
+            "Name": "55 in Plasma",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft AC",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Rolling Plasma Stand",
+            "Quantity": "2",
+            "Notes, #": "1 extra",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Power Strip",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        }
+    ],
+    "Westin Augusta EFG": [
+        {
+            "Name": "Table Mic Stands.",
+            "Quantity": "5",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Tall Mic Stands",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": " Wireless Combo",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "neutrix to 1/4 adaptor ",
+            "Quantity": "3",
+            "Notes, #": "in board case",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speakers",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Onstage Monitor Speaker",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        }
+    ],
+    "Westin Chastain A TECH OPS": [
+        {
+            "Name": "25 ft AC",
+            "Quantity": "8",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 f BNC Cables",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft HDMI Cable",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "10",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "5 ft screen",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft AC",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft spk cable",
+            "Quantity": "8",
+            "Notes, #": "1 extra =9",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft VGA Cable.",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "50 ft HDMI Cables.",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "55 in Plasma Screen",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "6 ch mixer",
+            "Quantity": "1",
+            "Notes, #": "#115",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "6 FT RCA Pair.",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "6 ft XLR",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "batts for wireless",
+            "Quantity": "12",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Blue Ray",
+            "Quantity": "1",
+            "Notes, #": "#54",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "boom stand",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Cart medium",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "extra mic clips.",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "F type Adaptors (M and F)",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Fender",
+            "Quantity": "1",
+            "Notes, #": "#71",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "HDMI to VGA Adaptors.",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "HDMI Splitter 1 x 2",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Mac Dongle.",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Medium Cart.",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "1",
+            "Notes, #": "#205",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Power Strip",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Projector Table",
+            "Quantity": "1",
+            "Notes, #": "#25",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Projector w HDMI",
+            "Quantity": "1",
+            "Notes, #": "#64",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "rachet strap",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "RCA to 1/4 adaptors.",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "RCA to 1/4 pair.",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "RCA to BNC Connectors",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "roll yellow duct tape.",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "rolls duct tape, Black",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "speaker stands",
+            "Quantity": "4",
+            "Notes, #": "4 extra = 8",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Speakers",
+            "Quantity": "1",
+            "Notes, #": "1 extra = 2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Table Stands",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "tall cart for Plazma",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "tall mic stands",
+            "Quantity": "2",
+            "Notes, #": "Boom 4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "VGA to HDMl Adaptors",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "Whiteboard with Markers.",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        },
+        {
+            "Name": "wireless combo 1 HW ",
+            "Quantity": "2",
+            "Notes, #": "#48",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X"
+        }
+    ],
+    "Master Equip. Index": [
+        {
+            "Name": "12 Ch Mixer"
+        },
+        {
+            "Name": "25 ft AC"
+        },
+        {
+            "Name": "25 ft VGA"
+        },
+        {
+            "Name": "25 ft XLR"
+        },
+        {
+            "Name": "50 ft SPKR"
+        },
+        {
+            "Name": "6 ft XLR"
+        },
+        {
+            "Name": "Batteries for Wireless"
+        },
+        {
+            "Name": "Black Drapes"
+        },
+        {
+            "Name": "Blue Ray Player"
+        },
+        {
+            "Name": "BNC to RCA Adaptor"
+        },
+        {
+            "Name": "HDMI to VGA Converter"
+        },
+        {
+            "Name": "P&D Cross"
+        },
+        {
+            "Name": "P&D UPS SHORT"
+        },
+        {
+            "Name": "PCDI"
+        },
+        {
+            "Name": "Power Strip"
+        },
+        {
+            "Name": "Projector"
+        },
+        {
+            "Name": "Projector Table"
+        },
+        {
+            "Name": "SM 58"
+        },
+        {
+            "Name": "Speaker Stands"
+        },
+        {
+            "Name": "Speakers"
+        },
+        {
+            "Name": "Table Stands"
+        },
+        {
+            "Name": "Tall Mic Stand."
+        },
+        {
+            "Name": "Tripod Screen 7 ft"
+        },
+        {
+            "Name": "Wireless HH"
+        }
+    ],
+    "Westin ChastainC": [
+        {
+            "Name": "25 FT AC",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 FT HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "65 in Plasma on Stand.",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Power Strip",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        }
+    ],
+    "Westin ChastainFG": [
+        {
+            "Name": "10 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft AC",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "24 ft 1/4 (spkr cable)",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "7",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50ft 1/4 (spkrcable)",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "6 ft XLR",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "10 ch Mixer, powered",
+            "Quantity": "1",
+            "Notes, #": "#68",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "8ft tripod screen",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Batts for wireless$ AA's",
+            "Quantity": "12",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "1",
+            "Notes, #": "#260",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "power strip",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Projector HDMI",
+            "Quantity": "1",
+            "Notes, #": "#103",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Rachet Strap",
+            "Quantity": "4",
+            "Notes, #": "missing"
+        },
+        {
+            "Name": "SM 58",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "small cart",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "speaker stands",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speakers",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "table stands",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Tall Mir_ Stand",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Wireless HH",
+            "Quantity": "1",
+            "Notes, #": "#50",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        }
+    ],
+    "Westin Chastain H": [
+        {
+            "Name": "10 ft VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft AC",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft XLR .fi3",
+            "Quantity": "7",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "55 in Plasma",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "6 ft XLR",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "8 ch pwr mixer",
+            "Quantity": "1",
+            "Notes, #": "#24",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "AA Batteries for wireless",
+            "Quantity": "12",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "PCBI",
+            "Quantity": "1",
+            "Notes, #": "#77",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "3 power strip",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Cart, Medium",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "SM 58",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Cart, Small",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "speaker stands",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "speakers",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "table stands",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Tall Mic Stand",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "VGA to HDMI Converter",
+            "Notes, #": "missing"
+        },
+        {
+            "Name": "Wireless HH",
+            "Quantity": "1",
+            "Notes, #": "#51",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        }
+    ],
+    "Westin Chastain IJ": [
+        {
+            "Name": "25 ft AC",
+            "Quantity": "3",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 Ft XLR",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 Ft HDMI",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 Ft Speaker",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 FT VGA",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "6 Channel Mixer",
+            "Quantity": "1",
+            "Notes, #": "#22",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "6 FT XLR",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "7 FT Tripod Screen",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "AA Batteries for Wireless",
+            "Quantity": "12",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "1",
+            "Notes, #": "#278",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Power strip",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Short Cart",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "SM 58",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speaker Stands",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speakers",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Table Stands",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Wireless Handheld",
+            "Quantity": "1",
+            "Notes, #": "#59",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        }
+    ],
+    "WestonChastain1-2": [
+        {
+            "Name": "6 ft XLR",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "10 ft XLR",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft AC",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "25 ft XLR",
+            "Quantity": "5",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "50 ft spkr cables",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "100 ft Spkr (aka 1/4)",
+            "Quantity": "2",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "6 channel mixer",
+            "Quantity": "1",
+            "Notes, #": "12 ch, #99",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "9v Batts for Wireless",
+            "Quantity": "6",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "PCDI",
+            "Quantity": "1",
+            "Notes, #": "#302",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Power Strip",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "SM58",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speaker stands",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Speakers",
+            "Quantity": "4",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Table stands",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Tall mix stand",
+            "Quantity": "1",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Wireless HH",
+            "Quantity": "1",
+            "Notes, #": "#47",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        },
+        {
+            "Name": "Adapter - Neutrix to 1/4",
+            "Quantity": "3",
+            "Notes, #": "in board case",
+            "In (Tue/Wed)": "X",
+            "Thurs": "X",
+            "Fri": "X"
+        }
+    ],
+    "Westin Peachtree Ballroom": [
+        {
+            "Quantity": "INVENTORY SHEET MISSING AS OF WED/THU"
+        }
+    ]
+}
