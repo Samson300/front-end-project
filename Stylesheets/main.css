@@ -1,32 +1,56 @@
 body {
-    margin-block-end: auto;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: black;
-    text-align: center;
-  }
-
-body.hilton {
-  background: black;
-  padding: 20px;
-  height: 50%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
+  margin-block-end: auto;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: black;
+  text-align: center;
 }
 
-header.hilton_head {
-  image: url("https://techops.net/lib/images/logo/logo_white.png");
-  width: 100%;
-  height: 20%;
+header img{
+  width: 30%;
+  height: 70%;
+  margin-top: 2em;
   margin-bottom: 2em;
+  border: none;
+  z-index: 2;
+}
+
+h1 {
+  font-size: 3em;
+  text-align: center;
+  color: rgba(2, 99, 112);
+}
+
+h2 {
+  font-size: 1.2em;
+  color: whitesmoke;
+  text-align: center;
+}
+
+img {
+  height: 30%;
+  width: 20%;
+  border-radius: 20%;
+  margin-top: 2em;
+  margin-inline-start: 4em;
+  padding: 1em;
+  border: .2em solid rgba(2, 99, 112, .5);
+  
+  /*outline: 2px solid lightskyblue;*/
+}
+
+.head {
+  width: 100%;
+  /*outline: 1px solid red;*/
+  background-color: rgba(2, 99, 112, .5);
 }
 
 .hotel {
   display: flexbox;
   flex-direction: row;
-  width: 75%;
-  margin: 2em;
-  outline: 2px solid magenta;
+  width: 100%;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  /*outline: 2px solid magenta;*/
   float: left;
 }
 
@@ -34,153 +58,10 @@ header.hilton_head {
   display: flexbox;
   flex-direction: row;
   width: 15%;
-  margin: 1.5em;
-  outline: 2px solid yellow;
-  float: right;
-}
-
-.container {
-  width: 100%;
-  padding: 2em;
-  margin: 2em;
-  margin-top: 1em;
-  margin-left: 2em;
-  /*outline: 2px solid red;*/
-}
-
-h1 {
-    font-size: 40px;
-    color: rgb(226, 43, 134);
-}
-
-h2 {
-    font-size: 30px;
-    color: whitesmoke;
-}
-h3 {
-    font-size: 18px;
-    color: white;
-}
-
-h4 {
-  color: white;
-}
-img {
-    height: 50%;
-    width: 50%;
-    border-radius: 20%;
-}
-h6 {
-    font-size: 12px;
-    color: grey;
-}
-
-header {
-    background-color: #333333;
-    width: 100%;
-    height: 50%;
-    z-index: 2;
-  }
-
-nav {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-}
-
-ul {
-  list-style-type: none;
-  margin: 0%;
-  padding: 0%;
-
-}
-
-li{
-  float: none;
-  width: auto;
-  height: auto;
-}
-
-a{
-  display: inline;
-  padding: 8px;
-  color: white;
-  background-color: black;
-}
-
-li a {
+  /*outline: 2px solid yellow;*/
   float: left;
-  display: block;
-  color: #ffffff;
-  padding: 30px 20px;
-  text-decoration: none;
-  font-size: 30px;
-  background-color: grey;
-  width: auto;
-}
-
-ul.sidenav {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 25%;
-  background-color: black;
-  position: fixed;
-  height: 100%;
-  overflow: auto;
-}
-
-ul.sidenav li a {
-  display: block;
-  color: #000;
-  padding: 8px 16px;
-  text-decoration: none;
-}
-
-ul.sidenav li a.active {
-  background-color: #4CAF50;
-  color: white;
-}
-
-ul.sidenav li a:hover:not(.active) {
-  background-color: #555;
-  color: white;
-}
-
-div.content {
-  margin-left: 25%;
-  padding: 1px 16px;
-  height: 1000px;
-}
-
-@media screen and (max-width: 900px) {
-  ul.sidenav {
-    width: 100%;
-    height: auto;
-    position: relative;
-  }
-
-  ul.sidenav li a {
-    float: left;
-    padding: 15px;
-  }
-
-  div.content {margin-left: 0;}
 }
 
 
-@media screen and (max-width: 400px) {
-  ul.sidenav li a {
-    text-align: center;
-    float: none;
-  }
-}
 
-
-p {
-    color: rgb(167, 241, 241);
-    font-size: 20px;
-    font-family: 'Raleway', sans-serif;
-    position: static;
-}
 

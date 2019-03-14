@@ -1,71 +1,51 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <title>TechOps Inventory</title>
-  <meta charset="utf-8"/>
-  <link rel="stylesheet" type="text/css" href="./Stylesheets/main.css">
-</head>
-      <header>
-        <img src="https://techops.net/lib/images/logo/logo_white.png"/>
-      </header>
-<body>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="stylesheet" type="text/css" href="./Stylesheets/main.css">
+        <title>TechOps</title>
+    </head>
+    <header>
+        <div class="head">
+            <img src="https://techops.net/lib/images/logo/logo_white.png"/>
+        </div>
+    </header>
+    <body>
+        <!--WEATHER WIDGET-->
+        <div class="weather"><h1>WEATHER WIDGET HERE</h1> 
+        </div>
+        <!--IMAGES-->
+        <img src="https://c2.staticflickr.com/2/1468/26096196624_722ff05c10_b.jpg"/>
+        <img src="https://c1.staticflickr.com/9/8308/29153787550_4ed84fe468_b.jpg"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dragon_Con_2013_Parade_-_Rogue_%289680981946%29.jpg/800px-Dragon_Con_2013_Parade_-_Rogue_%289680981946%29.jpg"/>
+    
+      
+       
+        <!--HOTEL DATA-->
+        <div class="hotel"><h1>HOTEL DATA HERE</h1>
+        
+        </div>
 
-    <h1><center> Welcome to the TechOps Inventory System </center></h1>
-    <h1><center> ~ DragonCon 2019 ~ </center></h1>
-
-    <img src="https://c2.staticflickr.com/2/1468/26096196624_722ff05c10_b.jpg"/>
-        <h2>Hilton Atlanta - Space Track</h2>
-        <h6>255 Courtland Street NE, Atlanta GA 30303</h6>
-
-    <img src="https://c1.staticflickr.com/9/8308/29153787550_4ed84fe468_b.jpg"/>
-        <h2><a href="/Users/owner/Documents/GitHub/TechOpsProject/webpages/Sheraton.html">Sheraton Atlanta Hotel</a></h2>
-        <h6>165 Courtland Street, Atlant GA 30303</h6>
-
-
-    <img src="https://c.pxhere.com/photos/fa/14/cosplay_wonder_woman_costume_woman_muscles_sword_dragoncon_kelley-486611.jpg!d"/>
-        <h2><a href="/Users/owner/Documents/GitHub/TechOpsProject/webpages/Hyatt.html">Hyatt Regency Atlanta</a></h2>
-        <h6>265 Peachtree Street NE, Atlanta GA 30303</h6>
-
-
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dragon_Con_2013_Parade_-_Rogue_%289680981946%29.jpg/800px-Dragon_Con_2013_Parade_-_Rogue_%289680981946%29.jpg"/>
-        <h2><a href="/Users/owner/Documents/GitHub/TechOpsProject/webpages/Marriott.html">Atlanta Marriot Marquis </a></h2>
-        <h6>265 Peachtree Center Ave, Atlanta GA 30303</h6>
-
-
-    <img src="https://c1.staticflickr.com/3/2488/3891198369_c1d67f55a0_b.jpg"/>
-        <h2><a href="/Users/owner/Documents/GitHub/TechOpsProject/webpages/Westin.html">The Westin Peachtree Plaza </a></h2>
-        <h6>210 Peachtree Street, Atlanta GA 30303</h6>
-
-        <p></p>
-        <p></p>
-        <p>Created by Techops volunteers for volunteers like you! -- Copyright 2018 --</p>
-
-        <nav>
-        <ul class='sidenav'>
-          <center>
-            <li><a class='active'
-              href="Hilton.html"> Hilton </a>
-            </li>
-
-            <li><a
-              href="Sheraton.html">Sheraton</a>
-            </li>
-
-            <li><a
-              href="Hyatt.html"> Hyatt </a>
-            </li>
-
-            <li> <a
-              href="Marriott.html"> Marriott </a>
-            </li>
-
-            <li> <a
-              href="Westin.html"> Westin </a>
-            </li>
-          </center>
-        </ul>
-        </nav>
-
-
-</body>
+        <div>
+            <h1>GET TRANSIT INFORMATION BELOW</h1>
+            <h2>Powered By Moovit</h2>
+        </div>
+        
+        <!--CODE FOR MOOVIT APP-->
+        <script>
+            (function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                js = d.createElement(s); js.id = id;
+                js.src = "https://widgets.moovit.com/wtp/en";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'moovit-jsw'));
+        </script>
+        
+        <div class="mv-wtp"
+            data-metro="121"
+            data-lang="en">
+        </div>
+    </body>
 </html>
