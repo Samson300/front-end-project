@@ -153,3 +153,7 @@ p {
     font-family: 'Raleway', sans-serif;
     position: static;
 }
+
+.map {
+  outline: 2px solid red;
+}
