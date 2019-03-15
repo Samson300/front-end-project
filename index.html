@@ -4,6 +4,9 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
         <link rel="stylesheet" type="text/css" href="./Stylesheets/main.css">
         <title>TechOps</title>
     </head>
@@ -16,36 +19,30 @@
 
         <!--BEGIN NAV-->
         <nav class="nav stickynav">
+            <li class="active"><a href="./Dark_Folded_SignIn/index.html">Home</a></li>
             <li class="active"><a href="#Hotel">Hotels</a></li>
-            <li class="active"><a href="#Transit">Transit </a></li>
-            <li class="active"><a href="#account">Account </a></li>
+            <li class="active"><a href="#Transit">Transit</a></li>
+            <li class="active"><a href="#Account">Account</a></li>
             <li class="active" ><a href="#contact">Contact</a></li>
         </nav>
         <!--END NAV-->
 
         <!--WEATHER WIDGET-->
             <div class="container"><a class="anchor" name="Weather">
-            <h1>WEATHER WIDGET HERE</h1></a>
+            <div data-weather>CURRENT ATLANTA WEATHER</div>
         </div>
         <!--END WEATHER-->
 
-        <!--BEGIN IMAGES-->
-        <div class="imgcontainer" align="center">
-            
-            <h3>Image Gallery</h3>
-            <img src="https://c2.staticflickr.com/2/1468/26096196624_722ff05c10_b.jpg"/>
-            <img src="https://c1.staticflickr.com/9/8308/29153787550_4ed84fe468_b.jpg"/>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dragon_Con_2013_Parade_-_Rogue_%289680981946%29.jpg/800px-Dragon_Con_2013_Parade_-_Rogue_%289680981946%29.jpg"/>
-        </div>
-        <!--END IMAGES-->
-       
+
+        <!-- BEGIN GALLERY -->
+        
+
         <!--HOTEL DATA-->
         <div class="container">
                 <a class="anchor" name="Hotel"></a>
             <h1>HOTEL DATA HERE</h1>
         </div>
 
-        
         
         <!--CODE FOR MOOVIT WIDGET-->
         <a class="anchor" name="Transit"></a>
@@ -67,9 +64,14 @@
                     data-height="600px">
                 </div>
         </div>
-        <h2>Powered by moovit</h2>
+        <footer>
+            <p>&copy; Jocelyn Bergdorff, Samson, Logan Josey, 2019</p>
+        </footer>
+        <!-- <script src="/scripts/slideshow.js"></script> -->
+        <!-- <script src="scripts/jquery.waypoints.min.js"></script> -->
+        <script src="scripts/weather.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+
     </body>
-    <footer>
-        <p>&copy; Jocelyn Bergorff, Samson, Logan Josey, 2019</p>
-    </footer>
 </html>

@@ -1,8 +1,9 @@
 /*====MAIN CONTENT-MOBILE FIRST====*/
 body {
-  margin-block-end: auto;
+  margin: 0;
+  padding: 0;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  background-color: black;
+  background: url(https://cdn.pixabay.com/photo/2016/09/16/21/46/background-1675212_960_720.jpg);
   text-align: center;
 }
 
@@ -10,39 +11,31 @@ body {
   box-sizing: border-box;
   /*outline: 1px solid red;*/
 }
+/*==========SECTION HEADINGS==========*/
 
 h1 {
   font-size: 2em;
   text-align: center;
-  color: rgba(2, 99, 112);
-}
-
-h2 {
-  font-size: 1.5em;
-  color: orangered;
-  text-align: right;
+  color: pink;
 }
 
 h3 {
-  color: whitesmoke;
+  font-size: 1.5em;
+  color: orangered;
+  text-align: right;
+  margin-right: 1em;
+}
+
+h3 {
+  color: black;
   font-size: 2em;
 }
 
 p {
   font-size: 1em;
-  color: whitesmoke;
+  color: black;
   text-align: right;
-}
-
-img {
-  height: 100%;
-  width: 100%;
-  align-content: center;
-  border-radius: 20%;
-  margin-top: 2em;
-  padding: 1em;
-  border: .2em solid rgba(2, 99, 112, .5);
-  /*outline: 2px solid lightskyblue;*/
+  margin-right: 1em;
 }
 
 /*====HEADER====*/
@@ -53,38 +46,41 @@ header img{
   margin-top: .1em››;
   margin-bottom: .5em;
   border: none;
-  z-index: 2;
 }
 
 .head {
   width: 100%;
   height: 100%;
   margin: 0px;
-  /*outline: 1px solid red;*/
-  background: linear-gradient(rgba(33, 27, 88, .4), rgba(33, 27, 88, 0.3));
+  outline: 1px solid white;
+  background: linear-gradient(rgba(0, 0, 0, .9), rgba(0, 0, 0, 0.8));
 }
 
 /*====MOOVIT WIDGET====*/
+
+
 .mv-gd-widget-20 img{
   border: none;
-  height: 100%;
-  width: 100%;
+  height: 50%;
+  width: 50%;
   background: none;
+  outline: 2pz solid orange;
 }
 
 .mv-gd-widget-20 {
   display: flex;
-  margin-left: 1em;
+  margin: auto;
 }
 
 .transit {
-  width: 100%;
+  width: 70%;
+  outline: 2px solid red;
 }
 
 .transit h1{
   text-align: center;
   font-size: 2em;
-  color: white;
+  color: black;
 }
 
 /*=======CONTAINERS============*/
@@ -94,17 +90,8 @@ header img{
   flex-direction: row;
   width: 80%;
   margin: auto;
-  /*outline: 2px solid magenta;*/
+  outline: 2px solid magenta;
 }
-
-.imgcontainer {
-  /*outline: 1px solid white;*/
-  width: 80%;
-  margin: auto;
-}
-
-
-
 
 
 /*===============NAVBAR===================*/
@@ -112,11 +99,11 @@ li {
   list-style: none;
 }
 
-.container {
+.navcontainer {
   width: 100%;
   display: flexbox;
   padding: 0px;
-  /*outline: 2px solid white;*/
+  outline: 2px solid green;
 }
 
 
@@ -126,7 +113,7 @@ li {
   display: flex;
   position: sticky;
   top: 0;
-  /*outline: 2px solid blueviolet;*/
+  outline: 2px solid blueviolet;
 }
 
 .nav {
@@ -134,11 +121,11 @@ li {
   width: 100%;
   justify-content: center;
   overflow: hidden;
-  background: linear-gradient(rgba(0,0,0, .1), rgba(33, 27, 88, 0.4));
+  background: linear-gradient(rgba(0, 0, 0, .9), rgba(0, 0, 0, 0.8));
   top: 0;
   font-size: 30px;
   margin-bottom: 1em;
-  /*outline: 3px solid silver;*/
+  outline: 3px solid silver;
 }
 
 nav {
@@ -172,7 +159,15 @@ li a {
   color: black;
   padding-left: 10px;
   padding-right: 15px;
-  /*outline: 2px solid red;*/
+  outline: 2px solid red;
 }
 
+/*====RESOLUTION CHANGES*/
+
+@media screen and (max-width: 400px) {
+  ul.sidenav li a {
+    text-align: center;
+    float: none;
+  }
+}
 
