@@ -1,3 +1,4 @@
+/*====MAIN CONTENT-MOBILE FIRST====*/
 body {
   margin-block-end: auto;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -5,63 +6,173 @@ body {
   text-align: center;
 }
 
-header img{
-  width: 30%;
-  height: 70%;
-  margin-top: 2em;
-  margin-bottom: 2em;
-  border: none;
-  z-index: 2;
+* {
+  box-sizing: border-box;
+  /*outline: 1px solid red;*/
 }
 
 h1 {
-  font-size: 3em;
+  font-size: 2em;
   text-align: center;
   color: rgba(2, 99, 112);
 }
 
 h2 {
-  font-size: 1.2em;
+  font-size: 1.5em;
+  color: orangered;
+  text-align: right;
+}
+
+h3 {
   color: whitesmoke;
-  text-align: center;
+  font-size: 2em;
+}
+
+p {
+  font-size: 1em;
+  color: whitesmoke;
+  text-align: right;
 }
 
 img {
-  height: 30%;
-  width: 20%;
+  height: 100%;
+  width: 100%;
+  align-content: center;
   border-radius: 20%;
   margin-top: 2em;
-  margin-inline-start: 4em;
   padding: 1em;
   border: .2em solid rgba(2, 99, 112, .5);
-  
   /*outline: 2px solid lightskyblue;*/
+}
+
+/*====HEADER====*/
+
+header img{
+  width: 100%;
+  height: 70%;
+  margin-top: .1em››;
+  margin-bottom: .5em;
+  border: none;
+  z-index: 2;
 }
 
 .head {
   width: 100%;
+  height: 100%;
+  margin: 0px;
   /*outline: 1px solid red;*/
-  background-color: rgba(2, 99, 112, .5);
+  background: linear-gradient(rgba(33, 27, 88, .4), rgba(33, 27, 88, 0.3));
 }
 
-.hotel {
-  display: flexbox;
-  flex-direction: row;
+/*====MOOVIT WIDGET====*/
+.mv-gd-widget-20 img{
+  border: none;
+  height: 100%;
   width: 100%;
-  margin-top: 2em;
-  margin-bottom: 2em;
-  /*outline: 2px solid magenta;*/
-  float: left;
+  background: none;
 }
 
-.weather {
+.mv-gd-widget-20 {
+  display: flex;
+  margin-left: 1em;
+}
+
+.transit {
+  width: 100%;
+}
+
+.transit h1{
+  text-align: center;
+  font-size: 2em;
+  color: white;
+}
+
+/*=======CONTAINERS============*/
+
+.container {
   display: flexbox;
   flex-direction: row;
-  width: 15%;
-  /*outline: 2px solid yellow;*/
-  float: left;
+  width: 80%;
+  margin: auto;
+  /*outline: 2px solid magenta;*/
+}
+
+.imgcontainer {
+  /*outline: 1px solid white;*/
+  width: 80%;
+  margin: auto;
 }
 
 
+
+
+
+/*===============NAVBAR===================*/
+li {
+  list-style: none;
+}
+
+.container {
+  width: 100%;
+  display: flexbox;
+  padding: 0px;
+  /*outline: 2px solid white;*/
+}
+
+
+.stickynav {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  position: sticky;
+  top: 0;
+  /*outline: 2px solid blueviolet;*/
+}
+
+.nav {
+  list-style-type: none;
+  width: 100%;
+  justify-content: center;
+  overflow: hidden;
+  background: linear-gradient(rgba(0,0,0, .1), rgba(33, 27, 88, 0.4));
+  top: 0;
+  font-size: 30px;
+  margin-bottom: 1em;
+  /*outline: 3px solid silver;*/
+}
+
+nav {
+  float: left;
+  width: 100%;
+  text-align: center;
+}
+
+li a {
+  display: block;
+  font-family: 'Laila', serif;
+  font-size: .8em;
+  color: whitesmoke;
+  text-align: center;
+  justify-content: center;
+  padding: 1px 1px;
+  text-decoration: none;
+
+}
+
+.stickynav a:hover {
+  background-color:silver;
+  padding: 20px;
+  color: black;
+  /*outline: 5px solid green;*/
+}
+
+/*Making the Navbar have a hover feature over active text*/
+.active {
+  background: linear-gradient(rgba(0,0,0, .1), rgba(33, 27, 88, 0.4));
+  color: black;
+  padding-left: 10px;
+  padding-right: 15px;
+  /*outline: 2px solid red;*/
+}
 
 
