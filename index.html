@@ -29,18 +29,49 @@
 
         <!--WEATHER WIDGET-->
             <div class="container"><a class="anchor" name="Weather">
-            <div data-weather>CURRENT ATLANTA WEATHER</div>
+            <div data-weather>CURRENT ATLANTA FORCAST</div>
         </div>
         <!--END WEATHER-->
+        <!--BEGIN SLIDESHOW-->
+        <div class="slideshow-container">
 
+            <div class="mySlides fade">
+                <div class="numbertext">1 / 3</div>
+                <img src="../Screen Shot 1397-12-23 at 7.04.25 PM.png" style="width:100%">
+                <div class="text">Caption Text</div>
+            </div>
+    
+            <div class="mySlides fade">
+                <div class="numbertext">2 / 3</div>
+                <img src="../Screen Shot 1397-12-23 at 7.04.43 PM.png" style="width:100%">
+                <div class="text">Caption Two</div>
+            </div>
+    
+            <div class="mySlides fade">
+                <div class="numbertext">3 / 3</div>
+                <img src="../Screen Shot 1397-12-23 at 9.19.25 PM.png" style="width:100%">
+                <div class="text">Caption Three</div>
+            </div>
+    
+            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+            <a class="next" onclick="plusSlides(1)">&#10095;</a>
+        
+            </div>
+            <br>
+
+            <div style="text-align:center">
+            <span class="dot" onclick="currentSlide(1)"></span> 
+            <span class="dot" onclick="currentSlide(2)"></span> 
+            <span class="dot" onclick="currentSlide(3)"></span> 
+            </div>
+        <!--END SLIDESHOW-->
 
         <!-- BEGIN GALLERY -->
         
 
         <!--HOTEL DATA-->
-        <div class="container">
-                <a class="anchor" name="Hotel"></a>
-            <h1>HOTEL DATA HERE</h1>
+        <div class="hotel-container" data-hotel>
+            <a class="anchor" name="Hotel">Hotel Inventory</a>
         </div>
 
         
@@ -70,8 +101,10 @@
         <!-- <script src="/scripts/slideshow.js"></script> -->
         <!-- <script src="scripts/jquery.waypoints.min.js"></script> -->
         <script src="scripts/weather.js"></script>
+        <script src="scripts/slideshow.js"></script>
+        <script src="scripts/hotel.js"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-
+        
 
     </body>
 </html>
