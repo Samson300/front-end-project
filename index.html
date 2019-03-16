@@ -1,111 +1,33 @@
 <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-
-        <link rel="stylesheet" type="text/css" href="./Stylesheets/main.css">
-        <title>TechOps</title>
-    </head>
-        <header>
-            <div class="head">
-                <img src="https://techops.net/lib/images/logo/logo_white.png"/>
-            </div>
-        </header>
-    <body>
-
-        <!--BEGIN NAV-->
-        <nav class="nav stickynav">
-            <li class="active"><a href="./Dark_Folded_SignIn/index.html">Home</a></li>
-            <li class="active"><a href="#Hotel">Hotels</a></li>
-            <li class="active"><a href="#Transit">Transit</a></li>
-            <li class="active"><a href="#Account">Account</a></li>
-            <li class="active" ><a href="#contact">Contact</a></li>
-        </nav>
-        <!--END NAV-->
-
-        <!--WEATHER WIDGET-->
-            <div class="container"><a class="anchor" name="Weather">
-            <div data-weather>CURRENT ATLANTA FORCAST</div>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Dark Folded Form Design</title>
+    <link rel="stylesheet" href="/Stylesheets/index.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $('.signIn').click(function() {
+                $('.fold').toggleClass('active')
+            })  
+        })
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div class="signIn">Enter If Ye Dare, Argh!</div>
+        <div class="fold">
+            <form>
+                <input type="text" name="" placeholder="username">
+                <input type="password" placeholder="password">
+                <input type="submit" name="" value="Login">
+                <!--Automatically Takes you to TECHOPS page until SQL is done-->
+                <a href="/pages/index.html">Forgot Password</a>
+            </form>
         </div>
-        <!--END WEATHER-->
-        
-        <!--BEGIN SLIDESHOW-->
-        <div class="slideshow-container">
-
-            <div class="mySlides fade">
-                <div class="numbertext">1 / 3</div>
-                <img src="../Screen Shot 1397-12-23 at 7.04.25 PM.png" style="width:100%">
-                <div class="text">Caption Text</div>
-            </div>
+    </div>
     
-            <div class="mySlides fade">
-                <div class="numbertext">2 / 3</div>
-                <img src="../Screen Shot 1397-12-23 at 7.04.43 PM.png" style="width:100%">
-                <div class="text">Caption Two</div>
-            </div>
-    
-            <div class="mySlides fade">
-                <div class="numbertext">3 / 3</div>
-                <img src="../Screen Shot 1397-12-23 at 9.19.25 PM.png" style="width:100%">
-                <div class="text">Caption Three</div>
-            </div>
-    
-            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-            <a class="next" onclick="plusSlides(1)">&#10095;</a>
-        
-            </div>
-            <br>
-
-            <div style="text-align:center">
-            <span class="dot" onclick="currentSlide(1)"></span> 
-            <span class="dot" onclick="currentSlide(2)"></span> 
-            <span class="dot" onclick="currentSlide(3)"></span> 
-            </div>
-        <!--END SLIDESHOW-->
-
-        <!-- BEGIN GALLERY -->
-        
-
-        <!--HOTEL DATA-->
-        <div class="hotel-container" data-hotel>
-            <a class="anchor" name="Hotel">Hotel Inventory</a>
-        </div>
-
-        
-        <!--CODE FOR MOOVIT WIDGET-->
-        <a class="anchor" name="Transit"></a>
-        <div align="center">
-            <div class="transit">
-                <h1>Get Transit Information Below</h1>
-            </div>
-            <script>(function(d, s, id) {
-                    var js, fjs = d.getElementsByTagName(s)[0];
-                    if (d.getElementById(id)) return;
-                    js = d.createElement(s); js.id = id;
-                    js.src = "https://widgets.moovit.com/ws/8416252FAC6D4A10E0530100007FA740/2456210";
-                    fjs.parentNode.insertBefore(js, fjs);
-                }(document, 'script', 'moovit-jsw'));
-            </script>
-            
-                <div class="mv-gd-widget-20" 
-                    data-width="100%" 
-                    data-height="600px">
-                </div>
-        </div>
-        <footer>
-            <p>&copy; Jocelyn Bergdorff, Samson, Logan Josey, 2019</p>
-        </footer>
-        <!-- <script src="/scripts/slideshow.js"></script> -->
-        <!-- <script src="scripts/jquery.waypoints.min.js"></script> -->
-        <script src="scripts/weather.js"></script>
-        <script src="scripts/slideshow.js"></script>
-        <script src="scripts/hotel.js"></script>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-        
-
-    </body>
+</body>
 </html>
