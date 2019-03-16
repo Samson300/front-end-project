@@ -20,12 +20,14 @@ function formatWind(weatherData) {
 function addToWeather(textData) {
     const newElement = document.createElement('h2');
     newElement.textContent = textData;
+  
     weatherDiv.appendChild(newElement);
-}
+  }
 
 // TODO; Implement sunrise and sunset info
 function sunInfo(weatherData, timeOfDay) {
     const timeDataInSeconds = weatherData;
+
     const timeDataInMilliseconds = timeDataInSeconds * 1000;
     const sunriseTime = new Date(timeDataInMilliseconds);
     return sunriseTime;
@@ -41,8 +43,8 @@ function formatDate(date) {
     if (minutes < 10) {
         minutes = '0' + minutes;
     }
+  
     const seconds = date.getSeconds();
-
     const formatted = `${hours}:${minutes}:${seconds}`;
     const monthDayYear = `${month}/${day}/2019`;
 
@@ -60,6 +62,7 @@ const fullURL = proxyURL + apiURL;
 
 fetch(fullURL)
     .then(function (response) {
+        // To Test if resonse is working in console
         //console.log(response.json());
         return response.json();
     }).then(function (weatherData) {
@@ -72,3 +75,4 @@ fetch(fullURL)
     }).catch((e) => {
         console.log('Error calling darksky api:', e);
     })
+
