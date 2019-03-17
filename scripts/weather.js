@@ -2,7 +2,6 @@ const weatherDiv = document.querySelector('[data-weather]');
 
 function formatTempHigh(weatherData) {
     const temp = weatherData.temperatureHigh;
-
     return `Temperature High: ${Math.round(temp)}`;
 }
 
@@ -14,7 +13,6 @@ function formatTempLow(weatherData) {
 
 function formatWind(weatherData) {
     const wind = weatherData.windSpeed;
-
     return `Wind speed(mph): ${Math.round(wind)}`;
 }
 
@@ -22,25 +20,22 @@ function formatWind(weatherData) {
 function addToWeather(textData) {
     const newElement = document.createElement('h2');
     newElement.textContent = textData;
-
-    weatherDiv.append(newElement);
-}
+  
+    weatherDiv.appendChild(newElement);
+  }
 
 // TODO; Implement sunrise and sunset info
 function sunInfo(weatherData, timeOfDay) {
     const timeDataInSeconds = weatherData;
 
     const timeDataInMilliseconds = timeDataInSeconds * 1000;
-
     const sunriseTime = new Date(timeDataInMilliseconds);
-
     return sunriseTime;
 }
 
 // TODO; Implement sunrise and sunset info
 function formatDate(date) {
     const day = date.getDate();
-
     const month = date.getMonth() + 1;
     const hours = date.getHours();
     let minutes = date.getMinutes();
@@ -48,8 +43,8 @@ function formatDate(date) {
     if (minutes < 10) {
         minutes = '0' + minutes;
     }
+  
     const seconds = date.getSeconds();
-
     const formatted = `${hours}:${minutes}:${seconds}`;
     const monthDayYear = `${month}/${day}/2019`;
 
@@ -67,6 +62,8 @@ const fullURL = proxyURL + apiURL;
 
 fetch(fullURL)
     .then(function (response) {
+        // To Test if resonse is working in console
+        //console.log(response.json());
         return response.json();
     }).then(function (weatherData) {
         const dailyWeatherData = weatherData.daily.data[0];
