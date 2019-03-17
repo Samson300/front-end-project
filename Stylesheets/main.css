@@ -3,26 +3,21 @@
 ==========SECTION HEADINGS==========*/
 
 h1 {
-  font-size: 2em;
+  font-size: 1.3em;
   text-align: center;
-  color: pink;
-}
-
-h3 {
-  font-size: 1.5em;
-  color: orangered;
-  text-align: right;
-  margin-right: 1em;
-}
-
-h3 {
   color: black;
+}
+
+h3 {
   font-size: 2em;
+  color: white;
+  text-shadow: 1px 1px 2px black;
+  text-align: center;
 }
 
 p {
-  font-size: 1em;
-  color: black;
+  font-size: .7em;
+  color: white;
   text-align: right;
   margin-right: 1em;
 }
@@ -47,29 +42,13 @@ header img{
 
 /*====MOOVIT WIDGET====*/
 
-
-.mv-gd-widget-20 img{
-  border: none;
-  height: 50%;
-  width: 50%;
-  background: none;
-  outline: 2pz solid orange;
-}
-
 .mv-gd-widget-20 {
   display: flex;
   margin: auto;
-}
-
-.transit {
+  padding: 0px;
   width: 70%;
-  outline: 2px solid red;
-}
-
-.transit h1{
-  text-align: center;
-  font-size: 2em;
-  color: black;
+  height: 400px;
+  outline: 3px solid magenta;
 }
 
 /*=======CONTAINERS============*/
@@ -78,12 +57,18 @@ header img{
   display: flex;
   flex-direction: row;
   justify-content: center;
-  width: 50%;
+  text-align: center;
+  width: 80%;
+  height: 200px;
   margin: auto;
-  background-color: lightgray;
+  padding: 20px;
+  font-size: 1em;
+  font-family: 'Open Sans Condensed', cursive;
+  background-color: rgba(255, 255, 189, .6);
+  color: black;
   border-radius: 10%;
-  outline: 2px solid magenta;
-  margin-bottom: 30px;
+  /*outline: 2px solid magenta;*/
+  margin-bottom: 25px;
 }
 
 .hotel-container {
@@ -91,7 +76,7 @@ header img{
   flex-direction: row;
   justify-content: center;
   margin: auto;
-  height: 50px;
+  height: 200px;
   width: 75%;
   background-color: lightgray;
   border-radius: 10%;
@@ -128,7 +113,7 @@ li {
   overflow: hidden;
   background: linear-gradient(rgba(0, 0, 0, .9), rgba(0, 0, 0, 0.8));
   top: 0;
-  font-size: 30px;
+  font-size: 23px;
   margin-bottom: 1em;
   outline: 3px solid silver;
 }
@@ -141,7 +126,7 @@ nav {
 
 li a {
   display: block;
-  font-family: 'Laila', serif;
+  font-family: 'Open Sans Condensed', cursive;
   font-size: .8em;
   color: whitesmoke;
   text-align: center;
@@ -222,7 +207,7 @@ img {
 
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
+  background-color: rgba(21, 114, 124, .5);
 }
 
 /* Caption text */
@@ -251,6 +236,7 @@ img {
   height: 15px;
   width: 15px;
   margin: 0 2px;
+  margin-bottom: 20px;
   background-color: #bbb;
   border-radius: 50%;
   display: inline-block;
@@ -258,7 +244,7 @@ img {
 }
 
 .active, .dot:hover {
-  background-color: rgb(0, 50, 56);
+  background-color: rgba(21, 114, 124, .7);
 }
 
 /* Fading animation */
@@ -279,14 +265,16 @@ img {
   to {opacity: 1}
 }
 
+
+
+/*====RESOLUTION CHANGES*/
+
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
 }
 
-/*====RESOLUTION CHANGES*/
-
-@media only screen and(min-width: 300) and (max-width: 600px) {
+@media only screen and(min-width: 300px) and (max-width: 600px) {
   .slideshow-container {
     width: 75%;
     position: relative;
@@ -295,3 +283,115 @@ img {
   }
 }
 
+@media (min-width: 750px) {
+
+  /* CONTAINERS */
+  .slideshow-container {
+  float: left;
+  width: 60%;
+  position: relative;
+  margin-left: 20px;
+  margin-top: -10px;
+  }
+
+  .hotel-container {
+    text-align: center;
+    height: 500px;
+    width: 80%;
+    background-color: rgba(133, 112, 44, 0.3);
+  }
+
+  .container {
+    display: flex;
+    position: relative;
+    float: left;
+    width: 35%;
+    height: 700px;
+    font-size: 2em;
+    background-color: rgba(133, 112, 44, 0.3);
+    margin-bottom: 25px;
+  }
+
+  /* NAV BAR */
+  .nav {
+    background: rgba(255, 255, 189, .6);
+  }
+
+  li a {
+    font-size: 2.5em;
+    color: whitesmoke;
+    text-shadow: 10px 10px 20px black;
+  }
+  /* FONTS */
+  h1 {
+    font-size: 1.6em;
+    text-align: center;
+    text-shadow:10px 10px 20px black;
+    color: white;
+  }
+  
+  h3 {
+    margin-top: 170px;
+    font-size: 3em;
+    color: white;
+    text-shadow: 10px 10px 20px black;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 1.5em;
+    color: black;
+    text-shadow: 5px 5px 15px white;
+    text-align: center;
+    margin-right: 0;
+  }
+  /* MOOVIT */
+  .mv-gd-widget-20 {
+    width: 90%;
+    height: auto;
+  }
+
+  /* SLIDESHOW */
+  .prev, .next {
+    top: 40%;
+    color: white;
+    text-shadow: 10px 10px 10px black;
+    font-weight: bold;
+    font-size: 60px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+  
+  /* Position the "next button" to the right */
+  .next {
+    right: 5px;
+    }
+  
+  .prev {
+    left: 5px;
+  }
+  
+  /* On hover, add a black background color with a little bit see-through */
+  .prev:hover, .next:hover {
+    background-color: rgba(247, 238, 218, 0.3);
+  }
+
+    /* Number text (1/3 etc) */
+  .numbertext {
+    font-size: 30px;
+    text-shadow:10px 10px 20px black;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+  }
+
+  /* The dots/bullets/indicators */
+  .dot {
+    height: 30px;
+    width: 30px;
+    margin: 0 10px;
+    margin-top: 50px;
+    background-color: white;
+  }
+}
