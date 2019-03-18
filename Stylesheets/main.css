@@ -316,6 +316,7 @@ img {
   font-size: 2em;
   color: black;
   font-weight: 700;
+  margin-bottom: 50px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.52), 0 1px 2px rgba(0,0,0,0.64);
   -webkit-transition: .5s ease all;
   transition: .5s ease all;
@@ -327,6 +328,22 @@ img {
 
 input::placeholder, textarea::placeholder {
   color: black;
+}
+
+/*===SOCIAL LINKS====*/
+.ul-social {
+  display: flex;
+  width: 50%;
+  justify-content: center;  /*outline: 2px solid yellow;*/
+  /* outline: 2px solid purple; */
+  margin-left: 420px;
+}
+
+.li-social-links {
+  display: inline-block;
+  list-style: none;
+  font-size: 2em;
+  margin-left: 30px;
 }
 
 /*====RESOLUTION CHANGES*/
