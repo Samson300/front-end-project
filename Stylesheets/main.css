@@ -8,7 +8,9 @@ h1 {
   color: center;
 }
 
-
+h2 {
+  font-size: 1.2em;
+}
 h3, h4 {
   font-size: 2em;
   color: white;
@@ -49,16 +51,16 @@ header img{
   justify-content: center;
   text-align: center;
   width: 100%;
-  height: 350px;
+  height: 400px;
   margin: auto;
-  padding-bottom: 0px;
+  padding: 0px;
   font-size: 1.2em;
   text-shadow: 1px 1px 2px black;
   font-family: 'Open Sans Condensed', cursive;
   background-color: rgba(133, 112, 44, 0.3);
   color: white;
   border-radius: 10%;
-  /*outline: 2px solid magenta;*/
+  outline: 2px solid magenta;
   margin-bottom: 25px;
 }
 
@@ -269,18 +271,11 @@ img {
 }
 
 /*===========CONTACT==========*/
-.blue {
-  display: block;
-  margin-top: 2em;
-  background-image: url(./../images/atlanta-night.jpg);
-  text-align: center;
-  /*outline: 2px solid pink;*/
-  margin-bottom: .2em;
-}
+
 
 .contact {
   display: block;
-  max-width: 50%;
+  max-width: 80%;
   margin: 0 auto;
   /*outline: 3px solid magenta;*/
 }
@@ -302,7 +297,7 @@ img {
 
 .contact textarea {
   width: 100%;
-  height: 300px;
+  height: 200px;
   resize: unset;
 }
 
@@ -315,8 +310,8 @@ img {
   border: none;
   font-size: 2em;
   color: black;
-  font-weight: 700;
-  margin-bottom: 50px;
+  font-weight: 500;
+  margin-bottom: 20px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.52), 0 1px 2px rgba(0,0,0,0.64);
   -webkit-transition: .5s ease all;
   transition: .5s ease all;
@@ -336,14 +331,15 @@ input::placeholder, textarea::placeholder {
   width: 50%;
   justify-content: center;  /*outline: 2px solid yellow;*/
   /* outline: 2px solid purple; */
-  margin-left: 420px;
+  margin-left: 60px;
 }
 
 .li-social-links {
   display: inline-block;
   list-style: none;
   font-size: 2em;
-  margin-left: 30px;
+  margin-left: 0px;
+  padding: 10px;
 }
 
 /*====RESOLUTION CHANGES*/
@@ -363,6 +359,7 @@ input::placeholder, textarea::placeholder {
 }
 
 @media (min-width: 750px) {
+  
 
   /* CONTAINERS */
   .slideshow-container {
@@ -414,6 +411,11 @@ input::placeholder, textarea::placeholder {
     font-size: 3em;
     color: white;
     text-shadow: 10px 10px 20px black;
+    text-align: center;
+  }
+
+  h2 {
+    font-size: 1em;
     text-align: center;
   }
   
@@ -473,9 +475,46 @@ input::placeholder, textarea::placeholder {
     margin-top: 50px;
     background-color: white;
   }
+  /*===SOCIAL LINKS====*/
+  .ul-social {
+    width: 50%;
+    margin-left: 150px;
+  }
+
+  .li-social-links {
+    padding: 20px;
+  }
+/* ====CONTACT==== */
+  
+  .contact input, .contact textarea {
+    display: inline-block;
+    width: 100%;
+    padding: 30px;
+  }
+  
+  .contact textarea {
+    width: 100%;
+    height: 300px;
+    resize: unset;
+  }
+  
+  .contact button {
+    font-size: 2.3em;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+
+  input::placeholder, textarea::placeholder {
+    font-size: 1.5em;
+  }
+  
 }
 
 @media (min-width: 1024px) {
+  header img{
+    margin-bottom: -3em;
+  }
+  
   /* CONTAINERS */
   .slideshow-container {
     margin-left: 20px;
@@ -492,6 +531,11 @@ input::placeholder, textarea::placeholder {
       margin-top: 10px;
       width: 55%;
       height: 600px;
+    }
+
+    h2 {
+      text-align: left;
+      font-size: 1.1em;
     }
 
     h3 {
@@ -515,4 +559,35 @@ input::placeholder, textarea::placeholder {
       padding-left: 40px;
       padding-right: 35px;
     }
+
+    /*===SOCIAL LINKS====*/
+    .ul-social {
+      margin-left: 250px;
+    }
+
+    .li-social-links {
+      padding: 30px;
+    }
+
+    /* ====CONTACT==== */
+  
+  .contact input, .contact textarea {
+    display: inline-block;
+    width: 75%;
+    padding: 40px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+  }
+  
+  .contact button {
+    font-size: 2.3em;
+    font-weight: 700;
+    margin-bottom: 20px;
+    width: 75%;
+    margin-left: 100px;
+  }
+
+  input::placeholder, textarea::placeholder {
+    font-size: 1.5em;
+  }
 }
