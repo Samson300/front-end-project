@@ -20,9 +20,9 @@ function formatWind(weatherData) {
 function addToWeather(textData) {
     const newElement = document.createElement('h2');
     newElement.textContent = textData;
-  
+
     weatherDiv.appendChild(newElement);
-  }
+}
 
 // TODO; Implement sunrise and sunset info
 function sunInfo(weatherData, timeOfDay) {
@@ -43,7 +43,7 @@ function formatDate(date) {
     if (minutes < 10) {
         minutes = '0' + minutes;
     }
-  
+
     const seconds = date.getSeconds();
     const formatted = `${hours}:${minutes}:${seconds}`;
     const monthDayYear = `${month}/${day}/2019`;
