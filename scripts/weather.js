@@ -23,7 +23,7 @@ function addToWeather(textData) {
     const newElement = document.createElement('h2');
     newElement.textContent = textData;
 
-    weatherDiv.append(newElement);
+    weatherDiv.appendChild(newElement);
 }
 
 // TODO; Implement sunrise and sunset info
@@ -73,8 +73,9 @@ fetch(fullURL)
         addToWeather(formatTempHigh(dailyWeatherData));
         addToWeather(formatTempLow(dailyWeatherData));
         addToWeather(formatWind(dailyWeatherData));
-        // addToWeather('Sunrise time: ' + (formatDate(sunInfo(dailyWeatherData, 'sunrise'))));
-        // addToWeather('Sunset time: ' + (formatDate(sunInfo(dailyWeatherData, "sunset"))));
+        addToWeather('Sunrise time: ' + (formatDate(sunInfo(dailyWeatherData.sunriseTime, 'sunrise'))));
+        console.log(dailyWeatherData.sunriseTime);
+        addToWeather('Sunset time: ' + (formatDate(sunInfo(dailyWeatherData.sunsetTime, "sunset"))));
     }).catch((e) => {
         console.log('Error calling darksky api:', e);
     })
