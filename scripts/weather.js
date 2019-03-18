@@ -1,6 +1,8 @@
 const weatherDiv = document.querySelector('[data-weather]');
 
-function date(date) {
+function date(timeStamp) {
+
+    const date = new Date(timeStamp * 1000);
     const day = date.getDate();
     const month = date.getMonth() + 1;
     const monthDayYear = `${month}/${day}/2019`;
@@ -74,7 +76,7 @@ fetch(fullURL)
         return response.json();
     }).then(function (weatherData) {
         const dailyWeatherData = weatherData.daily.data[0];
-        addToWeather(date(dailyWeatherData));
+        addToWeather(date(dailyWeatherData.time));
         addToWeather(formatTempHigh(dailyWeatherData));
         addToWeather(formatTempLow(dailyWeatherData));
         addToWeather(formatWind(dailyWeatherData));
