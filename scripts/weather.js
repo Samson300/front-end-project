@@ -50,7 +50,7 @@ function formatDate(date) {
     if (minutes < 10) {
         minutes = '0' + minutes;
     }
-  
+
     const seconds = date.getSeconds();
     const formatted = `${hours}:${minutes}:${seconds}`;
     const monthDayYear = `${month}/${day}/2019`;

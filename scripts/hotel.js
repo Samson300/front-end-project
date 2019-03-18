@@ -30,9 +30,9 @@ function drawDetails(object) {
     notesDiv = `Notes: ${object.notes}`;
 
 
-    detailsDiv.append(nameDiv);
-    detailsDiv.append(quantityDiv);
-    detailsDiv.append(notesDiv);
+    detailsDiv.appendChild(nameDiv);
+    detailsDiv.appendChild(quantityDiv);
+    detailsDiv.appendChild(notesDiv);
 }
 
 
