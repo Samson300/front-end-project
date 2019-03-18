@@ -1,5 +1,14 @@
 const weatherDiv = document.querySelector('[data-weather]');
 
+function date(timeStamp) {
+
+    const date = new Date(timeStamp * 1000);
+    const day = date.getDate();
+    const month = date.getMonth() + 1;
+    const monthDayYear = `${month}/${day}/2019`;
+    return monthDayYear;
+}
+
 function formatTempHigh(weatherData) {
     const temp = weatherData.temperatureHigh;
     return `Temperature High: ${Math.round(temp)}`;
@@ -48,7 +57,7 @@ function formatDate(date) {
     const formatted = `${hours}:${minutes}:${seconds}`;
     const monthDayYear = `${month}/${day}/2019`;
 
-    return monthDayYear + " " + formatted;
+    return " " + formatted;
 }
 
 
@@ -67,11 +76,13 @@ fetch(fullURL)
         return response.json();
     }).then(function (weatherData) {
         const dailyWeatherData = weatherData.daily.data[0];
+        addToWeather(date(dailyWeatherData.time));
         addToWeather(formatTempHigh(dailyWeatherData));
         addToWeather(formatTempLow(dailyWeatherData));
         addToWeather(formatWind(dailyWeatherData));
-        // addToWeather('Sunrise time: ' + (formatDate(sunInfo(dailyWeatherData, 'sunrise'))));
-        // addToWeather('Sunset time: ' + (formatDate(sunInfo(dailyWeatherData, "sunset"))));
+        addToWeather('Sunrise time: ' + (formatDate(sunInfo(dailyWeatherData.sunriseTime, 'sunrise'))));
+        console.log(dailyWeatherData.sunriseTime);
+        addToWeather('Sunset time: ' + (formatDate(sunInfo(dailyWeatherData.sunsetTime, "sunset"))));
     }).catch((e) => {
         console.log('Error calling darksky api:', e);
     })
