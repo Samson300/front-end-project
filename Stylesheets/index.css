@@ -2,14 +2,21 @@ body {
     margin: 0;
     padding: 0;
     background: url(https://i.pinimg.com/originals/0c/97/0c/0c970c8b7986fdb4243c98126c6f9bd0.jpg);
-    background-size: cover;
     font-family: sans-serif;
 
 }
 
+h3, h4 {
+    margin-top: 250px;
+    font-size: 2em;
+    color: black;
+    text-shadow: 4px 2px 5px rgb(169, 216, 229);
+    text-align: center;
+}
+
 .container {
     position: absolute;
-    top: 50%;
+    top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 20em;
