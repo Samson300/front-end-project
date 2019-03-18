@@ -6,7 +6,7 @@ body {
 
 }
 
-h3, h4 {
+h3 {
     margin-top: 250px;
     font-size: 2em;
     color: black;
@@ -16,7 +16,7 @@ h3, h4 {
 
 .container {
     position: absolute;
-    top: 70%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 20em;
@@ -101,4 +101,41 @@ h3, h4 {
     text-shadow: 1px 1px 2px black;
     text-align: right;
     font-weight: bold;
+}
+
+img {
+    margin-left: 23%;
+    margin-bottom: 0;
+    padding: 0;
+}
+
+@media (min-width: 200px) {
+    h3 {
+        margin-top: 400px; 
+    }
+}
+
+@media (min-width: 400px) {
+    h3 {
+        margin-top: 400px;
+    }
+    img {
+        margin-left: 30%;
+    }
+}
+
+@media (min-width: 750px) {
+    h3 {
+        margin-top: 500px;
+    }
+    img {
+        align-items: center;
+        margin-left: 40%;
+    }
+}
+
+@media (min-width: 100px) {
+    h3 {
+        margin-top: 200px;
+    }
 }
