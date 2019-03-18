@@ -11,13 +11,13 @@ function date(timeStamp) {
 
 function formatTempHigh(weatherData) {
     const temp = weatherData.temperatureHigh;
-    return `Temperature High: ${Math.round(temp)}`;
+    return `High: ${Math.round(temp)}`;
 }
 
 function formatTempLow(weatherData) {
     const temp = weatherData.temperatureLow;
 
-    return `Temperature Low: ${Math.round(temp)}`;
+    return `Low: ${Math.round(temp)}`;
 }
 
 function formatWind(weatherData) {
@@ -80,9 +80,9 @@ fetch(fullURL)
         addToWeather(formatTempHigh(dailyWeatherData));
         addToWeather(formatTempLow(dailyWeatherData));
         addToWeather(formatWind(dailyWeatherData));
-        addToWeather('Sunrise time: ' + (formatDate(sunInfo(dailyWeatherData.sunriseTime, 'sunrise'))));
+        addToWeather('Sunrise: ' + (formatDate(sunInfo(dailyWeatherData.sunriseTime, 'sunrise'))));
         console.log(dailyWeatherData.sunriseTime);
-        addToWeather('Sunset time: ' + (formatDate(sunInfo(dailyWeatherData.sunsetTime, "sunset"))));
+        addToWeather('Sunset: ' + (formatDate(sunInfo(dailyWeatherData.sunsetTime, "sunset"))));
     }).catch((e) => {
         console.log('Error calling darksky api:', e);
     })
