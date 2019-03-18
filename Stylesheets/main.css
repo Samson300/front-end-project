@@ -3,12 +3,13 @@
 ==========SECTION HEADINGS==========*/
 
 h1 {
-  font-size: 1.3em;
-  text-align: center;
-  color: black;
+  font-size: 1.7em;
+  text-align: left;
+  color: center;
 }
 
-h3 {
+
+h3, h4 {
   font-size: 2em;
   color: white;
   text-shadow: 1px 1px 2px black;
@@ -16,7 +17,7 @@ h3 {
 }
 
 p {
-  font-size: .7em;
+  font-size: .75em;
   color: white;
   text-align: right;
   margin-right: 1em;
@@ -40,17 +41,6 @@ header img{
   background: linear-gradient(rgba(0, 0, 0, .9), rgba(0, 0, 0, 0.8));
 }
 
-/*====MOOVIT WIDGET====*/
-
-.mv-gd-widget-20 {
-  display: flex;
-  margin: auto;
-  padding: 0px;
-  width: 70%;
-  height: 400px;
-  outline: 3px solid magenta;
-}
-
 /*=======CONTAINERS============*/
 
 .container {
@@ -58,14 +48,15 @@ header img{
   flex-direction: row;
   justify-content: center;
   text-align: center;
-  width: 80%;
-  height: 200px;
+  width: 100%;
+  height: 350px;
   margin: auto;
-  padding: 20px;
-  font-size: 1em;
+  padding-bottom: 0px;
+  font-size: 1.2em;
+  text-shadow: 1px 1px 2px black;
   font-family: 'Open Sans Condensed', cursive;
-  background-color: rgba(255, 255, 189, .6);
-  color: black;
+  background-color: rgba(133, 112, 44, 0.3);
+  color: white;
   border-radius: 10%;
   /*outline: 2px solid magenta;*/
   margin-bottom: 25px;
@@ -75,12 +66,13 @@ header img{
   display: flex;
   flex-direction: row;
   justify-content: center;
+  text-align: center;
   margin: auto;
-  height: 200px;
-  width: 75%;
-  background-color: lightgray;
+  height: 300px;
+  width: 90%;
+  background-color: rgba(133, 112, 44, 0.3);
   border-radius: 10%;
-  outline: 3px solid gold;
+  /* outline: 3px solid gold; */
 }
 
 
@@ -93,7 +85,7 @@ li {
   width: 100%;
   display: flexbox;
   padding: 0px;
-  outline: 2px solid green;
+  /* outline: 2px solid green; */
 }
 
 
@@ -103,7 +95,7 @@ li {
   display: flex;
   position: sticky;
   top: 0;
-  outline: 2px solid blueviolet;
+  /* outline: 2px solid blueviolet; */
 }
 
 .nav {
@@ -111,11 +103,11 @@ li {
   width: 100%;
   justify-content: center;
   overflow: hidden;
-  background: linear-gradient(rgba(0, 0, 0, .9), rgba(0, 0, 0, 0.8));
+  /* background: linear-gradient(rgba(0, 0, 0, .9), rgba(0, 0, 0, 0.8)); */
   top: 0;
-  font-size: 23px;
-  margin-bottom: 1em;
-  outline: 3px solid silver;
+  font-size: 21px;
+  margin-bottom: 2em;
+  /* outline: 3px solid silver; */
 }
 
 nav {
@@ -127,11 +119,11 @@ nav {
 li a {
   display: block;
   font-family: 'Open Sans Condensed', cursive;
-  font-size: .8em;
+  font-size: 1em;
   color: whitesmoke;
   text-align: center;
   justify-content: center;
-  padding: 1px 1px;
+  padding: 0px 0px;
   text-decoration: none;
 
 }
@@ -148,8 +140,8 @@ li a {
   background: linear-gradient(rgba(0,0,0, .1), rgba(33, 27, 88, 0.4));
   color: black;
   padding-left: 10px;
-  padding-right: 15px;
-  outline: 2px solid red;
+  padding-right: 10px;
+  /* outline: 2px solid red; */
 }
 
 /*====SLIDESHOW====*/
@@ -173,10 +165,10 @@ img {
 
 /* Slideshow container */
 .slideshow-container {
-  width: 230px;
+  width: 250px;
   position: relative;
   margin: auto;
-  outline: 2px solid pink;
+  /* outline: 2px solid pink; */
 }
 
 /* Next & previous buttons */
@@ -265,7 +257,77 @@ img {
   to {opacity: 1}
 }
 
+/*====MOOVIT WIDGET====*/
 
+.mv-gd-widget-20 {
+  display: flex;
+  margin: auto;
+  padding: 0px;
+  width: 70%;
+  height: 400px;
+  /* outline: 3px solid magenta; */
+}
+
+/*===========CONTACT==========*/
+.blue {
+  display: block;
+  margin-top: 2em;
+  background-image: url(./../images/atlanta-night.jpg);
+  text-align: center;
+  /*outline: 2px solid pink;*/
+  margin-bottom: .2em;
+}
+
+.contact {
+  display: block;
+  max-width: 50%;
+  margin: 0 auto;
+  /*outline: 3px solid magenta;*/
+}
+
+.contact input, .contact textarea {
+  display: inline-block;
+  width: 100%;
+  padding: 20px;
+  border-radius: 10px;
+  border: none;
+  margin-bottom: 5px;
+  background-color: rgba(255, 255, 244, 0.3);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.52), 0 1px 2px rgba(0,0,0,0.64);
+  font-size: 1.5em;
+  -webkit-transition: .5s ease all;
+  transition: .5s ease all;
+  /*outline: 3px solid orange;*/
+}
+
+.contact textarea {
+  width: 100%;
+  height: 300px;
+  resize: unset;
+}
+
+.contact button {
+  display: block;
+  width: 100%;
+  background-color: rgba(255, 255, 244, 0.3);
+  border-radius: 4px;
+  padding: 5px 10px;
+  border: none;
+  font-size: 2em;
+  color: black;
+  font-weight: 700;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.52), 0 1px 2px rgba(0,0,0,0.64);
+  -webkit-transition: .5s ease all;
+  transition: .5s ease all;
+}
+
+.white-text {
+  color: white;
+}
+
+input::placeholder, textarea::placeholder {
+  color: black;
+}
 
 /*====RESOLUTION CHANGES*/
 
@@ -330,7 +392,7 @@ img {
     color: white;
   }
   
-  h3 {
+  h3, h4 {
     margin-top: 170px;
     font-size: 3em;
     color: white;
@@ -394,4 +456,46 @@ img {
     margin-top: 50px;
     background-color: white;
   }
+}
+
+@media (min-width: 1024px) {
+  /* CONTAINERS */
+  .slideshow-container {
+    margin-left: 20px;
+    margin-top: -30px;
+    width: 40%;
+    }
+  
+    .hotel-container {
+      width: 90%;
+    }
+  
+    .container {
+      margin-left: 20px;
+      margin-top: 10px;
+      width: 55%;
+      height: 600px;
+    }
+
+    h3 {
+      margin-top: 10px;
+      font-size: 3em;
+      padding: 10px;
+    }
+
+    h4 {
+      margin-top: 130px;
+    }
+
+    .dot {
+      margin: 0 4px;
+      margin-top: 60px;
+    }
+
+    .active {
+      background: linear-gradient(rgba(0,0,0, .1), rgba(33, 27, 88, 0.4));
+      color: black;
+      padding-left: 40px;
+      padding-right: 35px;
+    }
 }
