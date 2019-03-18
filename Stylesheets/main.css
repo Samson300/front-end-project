@@ -1,186 +1,397 @@
-body {
-    margin-block-end: auto;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: black;
-    text-align: center;
-  }
 
-body.hilton {
-  background: black;
-  padding: 20px;
-  height: 50%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-
-header.hilton_head {
-  image: url("https://techops.net/lib/images/logo/logo_white.png");
-  width: 100%;
-  height: 20%;
-  margin-bottom: 2em;
-}
-
-.hotel {
-  display: flexbox;
-  flex-direction: row;
-  width: 75%;
-  margin: 2em;
-  outline: 2px solid magenta;
-  float: left;
-}
-
-.weather {
-  display: flexbox;
-  flex-direction: row;
-  width: 15%;
-  margin: 1.5em;
-  outline: 2px solid yellow;
-  float: right;
-}
-
-.container {
-  width: 100%;
-  padding: 2em;
-  margin: 2em;
-  margin-top: 1em;
-  margin-left: 2em;
-  /*outline: 2px solid red;*/
-}
+/*====MAIN CONTENT-MOBILE FIRST====
+==========SECTION HEADINGS==========*/
 
 h1 {
-    font-size: 40px;
-    color: rgb(226, 43, 134);
+  font-size: 1.3em;
+  text-align: center;
+  color: black;
 }
 
-h2 {
-    font-size: 30px;
-    color: whitesmoke;
-}
 h3 {
-    font-size: 18px;
-    color: white;
-}
-
-h4 {
+  font-size: 2em;
   color: white;
-}
-img {
-    height: 50%;
-    width: 50%;
-    border-radius: 20%;
-}
-h6 {
-    font-size: 12px;
-    color: grey;
+  text-shadow: 1px 1px 2px black;
+  text-align: center;
 }
 
-header {
-    background-color: #333333;
-    width: 100%;
-    height: 50%;
-    z-index: 2;
-  }
+p {
+  font-size: .7em;
+  color: white;
+  text-align: right;
+  margin-right: 1em;
+}
+
+/*====HEADER====*/
+
+header img{
+  width: 100%;
+  height: 70%;
+  margin-top: .1em››;
+  margin-bottom: .5em;
+  border: none;
+}
+
+.head {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  outline: 1px solid white;
+  background: linear-gradient(rgba(0, 0, 0, .9), rgba(0, 0, 0, 0.8));
+}
+
+/*====MOOVIT WIDGET====*/
+
+.mv-gd-widget-20 {
+  display: flex;
+  margin: auto;
+  padding: 0px;
+  width: 70%;
+  height: 400px;
+  outline: 3px solid magenta;
+}
+
+/*=======CONTAINERS============*/
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+  width: 80%;
+  height: 200px;
+  margin: auto;
+  padding: 20px;
+  font-size: 1em;
+  font-family: 'Open Sans Condensed', cursive;
+  background-color: rgba(255, 255, 189, .6);
+  color: black;
+  border-radius: 10%;
+  /*outline: 2px solid magenta;*/
+  margin-bottom: 25px;
+}
+
+.hotel-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: auto;
+  height: 200px;
+  width: 75%;
+  background-color: lightgray;
+  border-radius: 10%;
+  outline: 3px solid gold;
+}
+
+
+/*===============NAVBAR===================*/
+li {
+  list-style: none;
+}
+
+.navcontainer {
+  width: 100%;
+  display: flexbox;
+  padding: 0px;
+  outline: 2px solid green;
+}
+
+
+.stickynav {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  position: sticky;
+  top: 0;
+  outline: 2px solid blueviolet;
+}
+
+.nav {
+  list-style-type: none;
+  width: 100%;
+  justify-content: center;
+  overflow: hidden;
+  background: linear-gradient(rgba(0, 0, 0, .9), rgba(0, 0, 0, 0.8));
+  top: 0;
+  font-size: 23px;
+  margin-bottom: 1em;
+  outline: 3px solid silver;
+}
 
 nav {
-  position: fixed;
-  bottom: 0;
+  float: left;
   width: 100%;
-}
-
-ul {
-  list-style-type: none;
-  margin: 0%;
-  padding: 0%;
-
-}
-
-li{
-  float: none;
-  width: auto;
-  height: auto;
-}
-
-a{
-  display: inline;
-  padding: 8px;
-  color: white;
-  background-color: black;
+  text-align: center;
 }
 
 li a {
-  float: left;
   display: block;
-  color: #ffffff;
-  padding: 30px 20px;
+  font-family: 'Open Sans Condensed', cursive;
+  font-size: .8em;
+  color: whitesmoke;
+  text-align: center;
+  justify-content: center;
+  padding: 1px 1px;
   text-decoration: none;
-  font-size: 30px;
-  background-color: grey;
+
+}
+
+.stickynav a:hover {
+  background-color:silver;
+  padding: 20px;
+  color: black;
+  /*outline: 5px solid green;*/
+}
+
+/*Making the Navbar have a hover feature over active text*/
+.active {
+  background: linear-gradient(rgba(0,0,0, .1), rgba(33, 27, 88, 0.4));
+  color: black;
+  padding-left: 10px;
+  padding-right: 15px;
+  outline: 2px solid red;
+}
+
+/*====SLIDESHOW====*/
+
+* {
+  box-sizing: border-box
+}
+body {
+  font-family: Verdana, sans-serif; 
+  margin: auto;
+  background: url(https://cdn.pixabay.com/photo/2016/09/16/21/46/background-1675212_960_720.jpg);
+}
+
+.mySlides {
+  display: none;
+}
+
+img {
+  vertical-align: middle;
+}
+
+/* Slideshow container */
+.slideshow-container {
+  width: 230px;
+  position: relative;
+  margin: auto;
+  outline: 2px solid pink;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 40%;
   width: auto;
-}
-
-ul.sidenav {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 25%;
-  background-color: black;
-  position: fixed;
-  height: 100%;
-  overflow: auto;
-}
-
-ul.sidenav li a {
-  display: block;
-  color: #000;
-  padding: 8px 16px;
-  text-decoration: none;
-}
-
-ul.sidenav li a.active {
-  background-color: #4CAF50;
+  padding: -20px;
   color: white;
+  font-weight: bold;
+  font-size: 25px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
 }
 
-ul.sidenav li a:hover:not(.active) {
-  background-color: #555;
-  color: white;
+/* Position the "next button" to the right */
+.next {
+  right: -25px;
+  border-radius: 3px 0 0 3px;
 }
 
-div.content {
-  margin-left: 25%;
-  padding: 1px 16px;
-  height: 1000px;
+.prev {
+  left: -25px;
+  border-radius: 3px 0 0 3px;
 }
 
-@media screen and (max-width: 900px) {
-  ul.sidenav {
-    width: 100%;
-    height: auto;
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(21, 114, 124, .5);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 1em;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  margin-bottom: 20px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: rgba(21, 114, 124, .7);
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+
+
+/*====RESOLUTION CHANGES*/
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+
+@media only screen and(min-width: 300px) and (max-width: 600px) {
+  .slideshow-container {
+    width: 75%;
     position: relative;
+    margin: 1em;
+    outline: 5px solid pink;
   }
-
-  ul.sidenav li a {
-    float: left;
-    padding: 15px;
-  }
-
-  div.content {margin-left: 0;}
 }
 
+@media (min-width: 750px) {
 
-@media screen and (max-width: 400px) {
-  ul.sidenav li a {
+  /* CONTAINERS */
+  .slideshow-container {
+  float: left;
+  width: 60%;
+  position: relative;
+  margin-left: 20px;
+  margin-top: -10px;
+  }
+
+  .hotel-container {
     text-align: center;
-    float: none;
+    height: 500px;
+    width: 80%;
+    background-color: rgba(133, 112, 44, 0.3);
+  }
+
+  .container {
+    display: flex;
+    position: relative;
+    float: left;
+    width: 35%;
+    height: 700px;
+    font-size: 2em;
+    background-color: rgba(133, 112, 44, 0.3);
+    margin-bottom: 25px;
+  }
+
+  /* NAV BAR */
+  .nav {
+    background: rgba(255, 255, 189, .6);
+  }
+
+  li a {
+    font-size: 2.5em;
+    color: whitesmoke;
+    text-shadow: 10px 10px 20px black;
+  }
+  /* FONTS */
+  h1 {
+    font-size: 1.6em;
+    text-align: center;
+    text-shadow:10px 10px 20px black;
+    color: white;
+  }
+  
+  h3 {
+    margin-top: 170px;
+    font-size: 3em;
+    color: white;
+    text-shadow: 10px 10px 20px black;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 1.5em;
+    color: black;
+    text-shadow: 5px 5px 15px white;
+    text-align: center;
+    margin-right: 0;
+  }
+  /* MOOVIT */
+  .mv-gd-widget-20 {
+    width: 90%;
+    height: auto;
+  }
+
+  /* SLIDESHOW */
+  .prev, .next {
+    top: 40%;
+    color: white;
+    text-shadow: 10px 10px 10px black;
+    font-weight: bold;
+    font-size: 60px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+  
+  /* Position the "next button" to the right */
+  .next {
+    right: 5px;
+    }
+  
+  .prev {
+    left: 5px;
+  }
+  
+  /* On hover, add a black background color with a little bit see-through */
+  .prev:hover, .next:hover {
+    background-color: rgba(247, 238, 218, 0.3);
+  }
+
+    /* Number text (1/3 etc) */
+  .numbertext {
+    font-size: 30px;
+    text-shadow:10px 10px 20px black;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+  }
+
+  /* The dots/bullets/indicators */
+  .dot {
+    height: 30px;
+    width: 30px;
+    margin: 0 10px;
+    margin-top: 50px;
+    background-color: white;
   }
 }
-
-
-p {
-    color: rgb(167, 241, 241);
-    font-size: 20px;
-    font-family: 'Raleway', sans-serif;
-    position: static;
-}
-
