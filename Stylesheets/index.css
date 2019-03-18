@@ -12,7 +12,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 15em;
+    width: 20em;
     border-radius: 5px;
     box-sizing: border-box;
     overflow: hidden;
@@ -26,7 +26,7 @@ body {
     color: black;
     text-align: center;
     line-height: 50px;
-    font-size: 20px; 
+    font-size: 30px; 
     cursor: pointer;
     box-shadow: 0 5px 10px rgba(0, 0, 0, .5);
 }
@@ -50,6 +50,8 @@ body {
 .fold form input[type="text"],
 .fold form input[type="password"] {
     width: 100%;
+    font-size: 20px;
+    text-shadow: 1px 1px 2px black;
     margin-bottom: 20px;
     height: 40px;
     padding: 10px 20px;
@@ -68,7 +70,9 @@ body {
 
 .fold form input[type="submit"] {
     display: block;
-    padding: 12px 4-px;
+    font-size: 20px;
+    text-shadow: 1px 1px 2px black;
+    padding: 12px 4px;
     box-shadow: none;
     border: none;
     outline: none;
@@ -86,7 +90,8 @@ body {
     color: #fff;
     margin-top: 20px;
     display: block;
-    font-size: 14px;
+    font-size: 20px;
+    text-shadow: 1px 1px 2px black;
     text-align: right;
     font-weight: bold;
 }
