@@ -6,9 +6,9 @@ State the purpose/goal of your project - what's it do?
 ---
 Demo your project's functionality - does it work?
 -
-![Screenshot](screenshots/codeandimage.png?raw=true "Optional Title")
+![Screenshot](images/screenshots/codeandimage.png?raw=true "Optional Title")
 -
-![Screenshot](screenshots/responsive.png?raw=true "Optional Title")
+![Screenshot](images/screenshots/responsive.png?raw=true "Optional Title")
 
 - My account is not activated yet, will add to this during the backend process.
 
@@ -16,7 +16,7 @@ Demo your project's functionality - does it work?
 ---
 Describe some of the challenges your team faced - what went wrong?
 -
-![Screenshot](screenshots/error.png?raw=true "Optional Title")
+![Screenshot](images/screenshots/error.png?raw=true "Optional Title")
 
 - Issues pulling the API data from DarkSky Api. Using the CORS workaround still throws errors on occasion.
 ---
