@@ -38,7 +38,7 @@ urlKeys()
 
 
 
-function filterByLetter(letter) {
+function filterByHotelName(letter) {
    step1 = hotel.join(",");
    step2 = step1.split(",");
     const filtered = step2.filter(function (character, index) {
@@ -48,7 +48,7 @@ function filterByLetter(letter) {
         }
     });
         // console.log(`drawing for ${letter}`);
-    drawListOfCharacters(filtered);
+    drawListOfHotels(filtered);
 }
 
 function attachClickHotels() {
@@ -56,13 +56,13 @@ function attachClickHotels() {
     letters.forEach(function (letter){
         // console.log(letter)
         letter.addEventListener('click', function (){
-            filterByLetter(letter.textContent);
+            filterByHotelName(letter.textContent);
         });
     });
 };
 attachClickHotels()
 
-function drawCharacterToDetail(thing) {
+function drawDetailToHotel(thing) {
     // console.log(thing);
     let objects = fetch(inventoryURL).then(function(response){
         return response.json()
@@ -70,8 +70,6 @@ function drawCharacterToDetail(thing) {
         let detailDiv = document.querySelector('[data-detail]');
         detailDiv.textContent = '';
         response[thing].forEach(function(item){
-            // console.log(item.Name)
-
             const nameDiv = document.createElement('div');
             const quantityDiv = document.createElement('div');
             const notesDiv = document.createElement('div');
@@ -79,7 +77,6 @@ function drawCharacterToDetail(thing) {
             nameDiv.textContent = `Name: ${item.Name}`;
             quantityDiv.textContent = `Quantity: ${item.Quantity}`;
             notesDiv.textContent = `Notes: ${item.Notes}`;
-            // console.log(nameDiv)
         
         
             detailDiv.appendChild(nameDiv);
@@ -92,13 +89,13 @@ function drawCharacterToDetail(thing) {
 
 }
 
-function drawSingleCharacterToListing(characterObject) {
+function drawSingleHotelToListing(roomObject) {
 
     const anchorElement = document.createElement('a');
-    anchorElement.textContent = characterObject;
+    anchorElement.textContent = roomObject;
 
     anchorElement.addEventListener('click', function(){
-        drawCharacterToDetail(characterObject);
+        drawDetailToHotel(roomObject);
     });
 
     const listItem = document.createElement('li');
@@ -109,10 +106,10 @@ function drawSingleCharacterToListing(characterObject) {
     listArea.appendChild(listItem);
 }
 
-function drawListOfCharacters(filtered){
+function drawListOfHotels(filtered){
     const listArea = document.querySelector('[data-listing]');
     listArea.textContent = '';
-    filtered.forEach(drawSingleCharacterToListing);
+    filtered.forEach(drawSingleHotelToListing);
 }
 
 function addToHotels(textData) {
@@ -128,7 +125,7 @@ function addToHotels(textData) {
             
             hotelDiv.appendChild(newElement);
         })
-        drawSingleCharacterToListing(stuff)
+        drawSingleHotelToListing(stuff)
     })
 
 }
