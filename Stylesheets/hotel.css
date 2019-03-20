@@ -17,14 +17,11 @@ body {
     display: flex;
     flex-direction: column;
     font-family: Verdana, sans-serif; 
-    margin: auto;
+    /* margin: auto; */
     background: url(/images/bg.jpg);
 
 }
 
-body > * {
-    /*border: 1px solid red;*/
-}
 
 h1, p {
     text-align: center;
@@ -33,22 +30,22 @@ h1, p {
 
 
 h2 {
-    font-size: 5em;
+    font-size: 2em;
     text-align: center;
     color: rgb(248, 6, 6);
-    text-shadow: 10px 10px 5px black;
+    text-shadow: 5px 5px 5px black;
 
 }
 
 h3, h4 {
-    font-size: 3em;
+    font-size: 2em;
     text-align: center;
     color: white;
     text-shadow: 10px 10px 20px black;
 }
 
 h4 {
-    font-size: 5em;
+    font-size: 3em;
 }
 
 /* NAV BAR */
@@ -93,7 +90,7 @@ nav a {
     overflow: hidden;
     /* background: linear-gradient(rgba(0, 0, 0, .9), rgba(0, 0, 0, 0.8)); */
     top: 0;
-    font-size: 21px;
+    font-size: .5em;
     margin-bottom: 2em;
     /* outline: 3px solid silver; */
 }
@@ -115,11 +112,10 @@ nav a {
 
 /* ============ */
 .main-content {
-    height: 100%;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    /* outline: 2px solid yellow; */
+    outline: 2px solid yellow;
     margin-left: 3px;
 }
 
@@ -128,27 +124,28 @@ nav a {
     /* outline: 2px solid magenta; */
     background-color: rgba(255, 255, 255, 0.3);
     color: black;
-    width: 100%;
-    margin-right: .5em;
-    margin-left: .3em;
+    margin: 0 2em;
+
 }
 
 .listing {
-    font-size: 3.5em;
+    font-size: 1.7em;
     word-wrap: break-word;
     padding-left: 25px;
-    max-width: 30%;
-    max-height: 800px;
+    width: 90%;
+    height: 15em;
     overflow-y: scroll;
     overflow-x: hidden;
     /* outline: 3px solid lime; */
 }
 
 .detail {
-    font-size: 3.5em;
+    font-size: 1.7em;
+    text-align: center;
+    width: 90%;
     overflow-y: scroll;
     overflow-x: hidden;
-    max-height: 800px;
-    padding: 1em;
+    height: 15em;
     /* outline: 3px solid green; */
 }
+

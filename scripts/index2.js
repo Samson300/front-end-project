@@ -32,11 +32,6 @@ function urlKeys() {
 urlKeys()
 
 
-
-
-
-
-
 function filterByHotelName(letter) {
    step1 = hotel.join(",");
    step2 = step1.split(",");
@@ -61,6 +56,7 @@ function attachClickHotels() {
 };
 attachClickHotels()
 
+// HOTEL DETAILS
 function drawDetailToHotel(thing) {
     // console.log(thing);
     let objects = fetch(inventoryURL).then(function(response){
@@ -90,7 +86,7 @@ function drawDetailToHotel(thing) {
     
 
 }
-
+// ROOMS //
 function drawSingleHotelToListing(roomObject) {
 
     const anchorElement = document.createElement('a');
