@@ -10,12 +10,11 @@ html {
 html, body {
     height: 100%;
     width: 100%;
-    background-color: rgba(0, 0, 0, .1);
+    background-color: black;
 }
 
 body {
-    display: flex;
-    flex-direction: column;
+    
     font-family: Verdana, sans-serif; 
     /* margin: auto; */
     background: url(/images/bg.jpg);
@@ -115,7 +114,7 @@ nav a {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    outline: 2px solid yellow;
+    /* outline: 2px solid yellow; */
     margin-left: 3px;
 }
 
@@ -125,6 +124,7 @@ nav a {
     background-color: rgba(255, 255, 255, 0.3);
     color: black;
     margin: 0 2em;
+    margin-bottom: 2em;
 
 }
 
@@ -133,7 +133,7 @@ nav a {
     word-wrap: break-word;
     padding-left: 25px;
     width: 90%;
-    height: 15em;
+    height: 12em;
     overflow-y: scroll;
     overflow-x: hidden;
     /* outline: 3px solid lime; */
@@ -145,7 +145,7 @@ nav a {
     width: 90%;
     overflow-y: scroll;
     overflow-x: hidden;
-    height: 15em;
+    height: 12em;
     /* outline: 3px solid green; */
 }
 
