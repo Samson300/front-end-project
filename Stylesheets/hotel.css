@@ -115,7 +115,7 @@ nav a {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    outline: 2px solid yellow;
+    /*outline: 2px solid yellow;*/
     margin-left: 3px;
 }
 
