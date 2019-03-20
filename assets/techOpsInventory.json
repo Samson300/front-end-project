@@ -3,7 +3,7 @@
         {
             "Name": "Adaptor - 1/4 mono to XLR ",
             "Quantity": "2",
-            "Notes, #": "1 male, 1 female, not used",
+            "Notes": "1 male, 1 female, not used",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -22,7 +22,7 @@
         {
             "Name": "6 ft XLR",
             "Quantity": "4",
-            "Notes, #": "all 4 not used",
+            "Notes": "all 4 not used",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -125,7 +125,7 @@
         {
             "Name": "8 ch mixer with aux out & USB",
             "Quantity": "1",
-            "Notes, #": "#77",
+            "Notes": "#77",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -186,7 +186,7 @@
         {
             "Name": "PCDI",
             "Quantity": "1",
-            "Notes, #": "#54",
+            "Notes": "#54",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -199,7 +199,7 @@
         {
             "Name": "Ratchet straps",
             "Quantity": "3",
-            "Notes, #": "#106",
+            "Notes": "#106",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -272,14 +272,14 @@
         {
             "Name": "Wireless HH",
             "Quantity": "2",
-            "Notes, #": "not here, asked Tech Ops to send one, supposed to be #8, confused between #8 and #8-1 in Hilton 313",
+            "Notes": "not here, asked Tech Ops to send one, supposed to be #8, confused between #8 and #8-1 in Hilton 313",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
         {
             "Name": "short hdmi",
             "Quantity": "1",
-            "Notes, #": "in bluray case",
+            "Notes": "in bluray case",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         }
@@ -320,7 +320,7 @@
         {
             "Name": "10 Channel Mixer w/ aux out.",
             "Quantity": "1",
-            "Notes, #": "#25",
+            "Notes": "#25",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -393,7 +393,7 @@
         {
             "Name": "Adaptors - BNC to RCA",
             "Quantity": "4",
-            "Notes, #": "small metal adapters",
+            "Notes": "small metal adapters",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -418,7 +418,7 @@
         {
             "Name": "PCDI",
             "Quantity": "1",
-            "Notes, #": "#303",
+            "Notes": "#303",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -431,14 +431,14 @@
         {
             "Name": "Projector HDMI",
             "Quantity": "1",
-            "Notes, #": "#19",
+            "Notes": "#19",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
         {
             "Name": "projector Table.",
             "Quantity": "1",
-            "Notes, #": "#23",
+            "Notes": "#23",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -469,7 +469,7 @@
         {
             "Name": "Boom Mic stands",
             "Quantity": "4",
-            "Notes, #": "4 1/2 since one stand is missing a boom arm",
+            "Notes": "4 1/2 since one stand is missing a boom arm",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -482,7 +482,7 @@
         {
             "Name": "Wireless Combo Mic",
             "Quantity": "2",
-            "Notes, #": "#5",
+            "Notes": "#5",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -509,14 +509,14 @@
         {
             "Name": "12 Ch Mixer",
             "Quantity": "1",
-            "Notes, #": "#1111",
+            "Notes": "#1111",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
         {
             "Name": "100ft CAT 6 cable",
             "Quantity": "1",
-            "Notes, #": "black ethernet cable",
+            "Notes": "black ethernet cable",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -541,7 +541,7 @@
         {
             "Name": "25 ft XLR",
             "Quantity": "9",
-            "Notes, #": "3 found",
+            "Notes": "3 found",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -572,14 +572,14 @@
         {
             "Name": "Camera Tripod, med",
             "Quantity": "1",
-            "Notes, #": "no camera",
+            "Notes": "no camera",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
         {
             "Name": "PCDI ",
             "Quantity": "1",
-            "Notes, #": "#69",
+            "Notes": "#69",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -598,7 +598,7 @@
         {
             "Name": "Projector",
             "Quantity": "1",
-            "Notes, #": "#1115",
+            "Notes": "#1115",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -635,7 +635,7 @@
         {
             "Name": "Wireless Lav combo mic",
             "Quantity": "1",
-            "Notes, #": "#4",
+            "Notes": "#4",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         }
@@ -662,14 +662,14 @@
         {
             "Name": "Wireless Combo Mics",
             "Quantity": "2",
-            "Notes, #": "#8-1 still here, #8 taken down to 213 (space) by Cross. Both numbered 8, and space doesn't have the transmitter needed",
+            "Notes": "#8-1 still here, #8 taken down to 213 (space) by Cross. Both numbered 8, and space doesn't have the transmitter needed",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
         {
             "Name": "Small Fender Mixer",
             "Quantity": "1",
-            "Notes, #": "#74",
+            "Notes": "#74",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -700,7 +700,7 @@
         {
             "Name": "PCDI",
             "Quantity": "1",
-            "Notes, #": "#11",
+            "Notes": "#11",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -811,7 +811,7 @@
         {
             "Name": "Backup Kustom Mixer",
             "Quantity": "1",
-            "Notes, #": "#42",
+            "Notes": "#42",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -828,7 +828,7 @@
         {
             "Name": "Blue Ray Player",
             "Quantity": "2",
-            "Notes, #": "#62, #82",
+            "Notes": "#62, #82",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -847,7 +847,7 @@
         {
             "Name": "Document Projector",
             "Quantity": "1",
-            "Notes, #": "Elmo or Wolfvision",
+            "Notes": "Elmo or Wolfvision",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -914,7 +914,7 @@
         {
             "Name": "ROJECTOR HDMI",
             "Quantity": "2",
-            "Notes, #": "#59, #112",
+            "Notes": "#59, #112",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -945,7 +945,7 @@
         {
             "Name": "Small Cart",
             "Quantity": "1",
-            "Notes, #": "melt",
+            "Notes": "melt",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -1000,7 +1000,7 @@
         {
             "Name": "Wireless Combo Mic",
             "Quantity": "3",
-            "Notes, #": "#15",
+            "Notes": "#15",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         }
@@ -1045,7 +1045,7 @@
         {
             "Name": "8 channel NP mixer",
             "Quantity": "1",
-            "Notes, #": "#55",
+            "Notes": "#55",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -1058,7 +1058,7 @@
         {
             "Name": "PCDI",
             "Quantity": "1",
-            "Notes, #": "#1008",
+            "Notes": "#1008",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -1107,7 +1107,7 @@
         {
             "Name": "25 ft XLR",
             "Quantity": "1",
-            "Notes, #": "in mixer case",
+            "Notes": "in mixer case",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         }
@@ -1116,7 +1116,7 @@
         {
             "Name": "1/4 m to XLR m",
             "Quantity": "1",
-            "Notes, #": "1 extra, 2 total",
+            "Notes": "1 extra, 2 total",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -1129,7 +1129,7 @@
         {
             "Name": "6ft BNC",
             "Quantity": "1",
-            "Notes, #": "w/mixer",
+            "Notes": "w/mixer",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -1166,7 +1166,7 @@
         {
             "Name": "6ch Rack mixer",
             "Quantity": "1",
-            "Notes, #": "#56",
+            "Notes": "#56",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -1179,7 +1179,7 @@
         {
             "Name": "Adaptor - RCA to BNC",
             "Quantity": "6",
-            "Notes, #": "w/mixer",
+            "Notes": "w/mixer",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -1222,14 +1222,14 @@
         {
             "Name": "Projector HDMI & VGA",
             "Quantity": "1",
-            "Notes, #": "#32",
+            "Notes": "#32",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
         {
             "Name": "6ft RCA to 1/4 pair",
             "Quantity": "1",
-            "Notes, #": "1 extra, 2 total",
+            "Notes": "1 extra, 2 total",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -1272,7 +1272,7 @@
         {
             "Name": "Wirless HH Clip",
             "Quantity": "1",
-            "Notes, #": "#2",
+            "Notes": "#2",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         }
@@ -1288,7 +1288,7 @@
         {
             "Name": "PCDI",
             "Quantity": "1",
-            "Notes, #": "#22",
+            "Notes": "#22",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -1310,7 +1310,7 @@
         {
             "Name": "Tall Mic Stands",
             "Quantity": "6",
-            "Notes, #": "No clips, used for wig head holders",
+            "Notes": "No clips, used for wig head holders",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -1338,7 +1338,7 @@
         {
             "Name": "8 Channel Mixer",
             "Quantity": "1",
-            "Notes, #": "#31",
+            "Notes": "#31",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -1387,7 +1387,7 @@
         {
             "Name": "Plasma TV Stand",
             "Quantity": "1",
-            "Notes, #": "labed \"Westin Chastain\"",
+            "Notes": "labed \"Westin Chastain\"",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         }
@@ -1432,7 +1432,7 @@
         {
             "Name": "8 Ch Powered Mixer",
             "Quantity": "1",
-            "Notes, #": "#35",
+            "Notes": "#35",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -1445,14 +1445,14 @@
         {
             "Name": "Blue Ray Player",
             "Quantity": "1",
-            "Notes, #": "#79",
+            "Notes": "#79",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
         {
             "Name": "PCDI",
             "Quantity": "1",
-            "Notes, #": "#1020",
+            "Notes": "#1020",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -1465,7 +1465,7 @@
         {
             "Name": "Projector for HDMI/VGA",
             "Quantity": "1",
-            "Notes, #": "#134",
+            "Notes": "#134",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -1510,7 +1510,7 @@
         {
             "Name": "Projector w/ HDMI port",
             "Quantity": "1",
-            "Notes, #": "#127",
+            "Notes": "#127",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -1547,7 +1547,7 @@
         {
             "Name": "12 ch Mixer",
             "Quantity": "1",
-            "Notes, #": "#900? 903? 907? last number unclear. Neutrix adapters in board case",
+            "Notes": "#900? 903? 907? last number unclear. Neutrix adapters in board case",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -1644,7 +1644,7 @@
         {
             "Name": "PCDI",
             "Quantity": "1",
-            "Notes, #": "#281",
+            "Notes": "#281",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -1681,7 +1681,7 @@
         {
             "Name": "Wireless Combo",
             "Quantity": "2",
-            "Notes, #": "#10",
+            "Notes": "#10",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         }
@@ -1690,7 +1690,7 @@
         {
             "Name": "1 x 2 HDMI Splitter",
             "Quantity": "1",
-            "Notes, #": "#127",
+            "Notes": "#127",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -1715,7 +1715,7 @@
         {
             "Name": "16 ch Mixer",
             "Quantity": "1",
-            "Notes, #": "#103",
+            "Notes": "#103",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -1764,7 +1764,7 @@
         {
             "Name": "9v Batteries for Wireless",
             "Quantity": "18",
-            "Notes, #": "11 In",
+            "Notes": "11 In",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -1823,7 +1823,7 @@
         {
             "Name": "PCDI",
             "Quantity": "1",
-            "Notes, #": "#279",
+            "Notes": "#279",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -1836,7 +1836,7 @@
         {
             "Name": "Powered Speakers",
             "Quantity": "6",
-            "Notes, #": "(2 of which onstage)",
+            "Notes": "(2 of which onstage)",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -1849,7 +1849,7 @@
         {
             "Name": "Projector rear HDMI",
             "Quantity": "1",
-            "Notes, #": "#128",
+            "Notes": "#128",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -1862,7 +1862,7 @@
         {
             "Name": "RCA to 1/4 pair",
             "Quantity": "1",
-            "Notes, #": "#10",
+            "Notes": "#10",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -1893,14 +1893,14 @@
         {
             "Name": "Tall Mic Stand w/ clip",
             "Quantity": "2",
-            "Notes, #": "1 extra stand",
+            "Notes": "1 extra stand",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
         {
             "Name": "Wireless Combo",
             "Quantity": "3",
-            "Notes, #": "#11",
+            "Notes": "#11",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         }
@@ -1999,84 +1999,84 @@
         {
             "Name": "DI",
             "Quantity": "4",
-            "Notes, #": "JD",
+            "Notes": "JD",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
         {
             "Name": "Purple (aka Spkr or 1/4) Cables",
             "Quantity": "4",
-            "Notes, #": "JD",
+            "Notes": "JD",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
         {
             "Name": "SM58",
             "Quantity": "7",
-            "Notes, #": "JD",
+            "Notes": "JD",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
         {
             "Name": "Short StarWar Stand",
             "Quantity": "7",
-            "Notes, #": "JD",
+            "Notes": "JD",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
         {
             "Name": "Adaptor - 1/4 to RCA Stereo",
             "Quantity": "2",
-            "Notes, #": "JD",
+            "Notes": "JD",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
         {
             "Name": "Adaptor - 1/8 to 1/4 Stereo",
             "Quantity": "2",
-            "Notes, #": "JD",
+            "Notes": "JD",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
         {
             "Name": "RAPCO PCDI",
             "Quantity": "2",
-            "Notes, #": "JD",
+            "Notes": "JD",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
         {
             "Name": "50 ft XLR/XLR",
             "Quantity": "5",
-            "Notes, #": "sheet said 20",
+            "Notes": "sheet said 20",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
         {
             "Name": "25 ft XLR/XLR",
             "Quantity": "3",
-            "Notes, #": "sheet said 20",
+            "Notes": "sheet said 20",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
         {
             "Name": "Quad Boxes",
             "Quantity": "1",
-            "Notes, #": "sheet said 4",
+            "Notes": "sheet said 4",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
         {
             "Name": "100 ft AC",
             "Quantity": "2",
-            "Notes, #": "sheet said 6",
+            "Notes": "sheet said 6",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
         {
             "Name": "50 ft AC",
             "Quantity": "4",
-            "Notes, #": "sheet said 6",
+            "Notes": "sheet said 6",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -2107,7 +2107,7 @@
         {
             "Name": "Wireless Combo",
             "Quantity": "1?",
-            "Notes, #": "sheet had no number",
+            "Notes": "sheet had no number",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -2120,7 +2120,7 @@
         {
             "Name": "3 ft HDMI",
             "Quantity": "1",
-            "Notes, #": "on the sheet, 1 is checked, but there is a 7, so riddle me that",
+            "Notes": "on the sheet, 1 is checked, but there is a 7, so riddle me that",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -2195,7 +2195,7 @@
         {
             "Name": "Cart, tall",
             "Quantity": "1",
-            "Notes, #": "for plasma"
+            "Notes": "for plasma"
         }
     ],
     "Hyatt Grand Hall C": [
@@ -2258,7 +2258,7 @@
         {
             "Name": "6 Ch Mixer, powered",
             "Quantity": "1",
-            "Notes, #": "#78",
+            "Notes": "#78",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -2301,7 +2301,7 @@
         {
             "Name": "Speaker Stands",
             "Quantity": "2",
-            "Notes, #": "taken from Harris",
+            "Notes": "taken from Harris",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -2323,7 +2323,7 @@
         {
             "Name": "Wireless Combo",
             "Quantity": "1",
-            "Notes, #": "#???",
+            "Notes": "#???",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -2331,7 +2331,7 @@
         {
             "Name": "Duct Tape, Yellow",
             "Quantity": "6",
-            "Notes, #": "3 taken to distribute to Marriot & Sheraton Tech Ops",
+            "Notes": "3 taken to distribute to Marriot & Sheraton Tech Ops",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -2396,7 +2396,7 @@
         {
             "Name": "10 Ch Mixer, powered",
             "Quantity": "1",
-            "Notes, #": "#19",
+            "Notes": "#19",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -2409,7 +2409,7 @@
         {
             "Name": "Mac Adaptor Kit",
             "Quantity": "1",
-            "Notes, #": "from Harris",
+            "Notes": "from Harris",
             "Thurs": "X"
         },
         {
@@ -2432,13 +2432,13 @@
         {
             "Name": "Speakers",
             "Quantity": "2",
-            "Notes, #": "1 taken from Harris",
+            "Notes": "1 taken from Harris",
             "Thurs": "X"
         },
         {
             "Name": "Speaker Stands",
             "Quantity": "2",
-            "Notes, #": "taken from Harris",
+            "Notes": "taken from Harris",
             "Thurs": "X"
         },
         {
@@ -2456,14 +2456,14 @@
         {
             "Name": "Wireless Combo",
             "Quantity": "1",
-            "Notes, #": "#20",
+            "Notes": "#20",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
         {
             "Name": "Duct Tape, Yellow",
             "Quantity": "6",
-            "Notes, #": "3 taken to distribute to Marriot & Sheraton Tech Ops",
+            "Notes": "3 taken to distribute to Marriot & Sheraton Tech Ops",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -2518,7 +2518,7 @@
         {
             "Name": "10 ch Mixer",
             "Quantity": "1",
-            "Notes, #": "#93",
+            "Notes": "#93",
             "Thurs": "X"
         },
         {
@@ -2534,13 +2534,13 @@
         {
             "Name": "Blue Ray Player",
             "Quantity": "1",
-            "Notes, #": "#88",
+            "Notes": "#88",
             "Thurs": "X"
         },
         {
             "Name": "Grey Ground Lifts",
             "Quantity": "1",
-            "Notes, #": "dunno what this is",
+            "Notes": "dunno what this is",
             "Thurs": "X"
         },
         {
@@ -2551,7 +2551,7 @@
         {
             "Name": "PCDI",
             "Quantity": "1",
-            "Notes, #": "#258",
+            "Notes": "#258",
             "Thurs": "X"
         },
         {
@@ -2562,7 +2562,7 @@
         {
             "Name": "Projector, VGA",
             "Quantity": "1",
-            "Notes, #": "#55",
+            "Notes": "#55",
             "Thurs": "X"
         },
         {
@@ -2623,7 +2623,7 @@
         {
             "Name": "Wireless Combo Mic",
             "Quantity": "1",
-            "Notes, #": "#21",
+            "Notes": "#21",
             "Thurs": "X"
         },
         {
@@ -2683,7 +2683,7 @@
         {
             "Name": "8 Ch Mixer",
             "Quantity": "1",
-            "Notes, #": "#12",
+            "Notes": "#12",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -2747,7 +2747,7 @@
         {
             "Name": "PCDI",
             "Quantity": "1",
-            "Notes, #": "#280",
+            "Notes": "#280",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -2762,7 +2762,7 @@
         {
             "Name": "Projector",
             "Quantity": "2",
-            "Notes, #": "#62; both labelled for L504",
+            "Notes": "#62; both labelled for L504",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -2770,7 +2770,7 @@
         {
             "Name": "Projector Table",
             "Quantity": "2",
-            "Notes, #": "#20",
+            "Notes": "#20",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -2829,7 +2829,7 @@
         {
             "Name": "16 Ch Mackie w reverb",
             "Quantity": "1",
-            "Notes, #": "#120",
+            "Notes": "#120",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -2938,7 +2938,7 @@
         {
             "Name": "PCDI",
             "Quantity": "1",
-            "Notes, #": "#78",
+            "Notes": "#78",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -2957,7 +2957,7 @@
         {
             "Name": "Projector, VGA",
             "Quantity": "1",
-            "Notes, #": "#100",
+            "Notes": "#100",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -3018,7 +3018,7 @@
         {
             "Name": "Wireless combo",
             "Quantity": "2",
-            "Notes, #": "#22",
+            "Notes": "#22",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -3079,7 +3079,7 @@
         {
             "Name": "8 ch Mixer",
             "Quantity": "1",
-            "Notes, #": "#79",
+            "Notes": "#79",
             "Thurs": "X"
         },
         {
@@ -3090,13 +3090,13 @@
         {
             "Name": "Adaptor - 1/4 to XLR m",
             "Quantity": "1",
-            "Notes, #": "with Mixer",
+            "Notes": "with Mixer",
             "Thurs": "X"
         },
         {
             "Name": "Adaptor - BNC to F",
             "Quantity": "5",
-            "Notes, #": "only 2?",
+            "Notes": "only 2?",
             "Thurs": "X"
         },
         {
@@ -3117,7 +3117,7 @@
         {
             "Name": "Blue Ray Player",
             "Quantity": "2",
-            "Notes, #": "#97, #98, short HDMI",
+            "Notes": "#97, #98, short HDMI",
             "Thurs": "X"
         },
         {
@@ -3148,7 +3148,7 @@
         {
             "Name": "HDMI Projector",
             "Quantity": "1",
-            "Notes, #": "#37",
+            "Notes": "#37",
             "Thurs": "X"
         },
         {
@@ -3188,7 +3188,7 @@
         {
             "Name": "PCDI",
             "Quantity": "2",
-            "Notes, #": "#1004, #36",
+            "Notes": "#1004, #36",
             "Thurs": "X"
         },
         {
@@ -3199,19 +3199,19 @@
         {
             "Name": "Projector",
             "Quantity": "2",
-            "Notes, #": "#53, #49",
+            "Notes": "#53, #49",
             "Thurs": "X"
         },
         {
             "Name": "Ratchet Straps",
             "Quantity": "4",
-            "Notes, #": "in plasma case",
+            "Notes": "in plasma case",
             "Thurs": "X"
         },
         {
             "Name": "Duct Tape Rolls, Black",
             "Quantity": "6",
-            "Notes, #": "only 2",
+            "Notes": "only 2",
             "Thurs": "X"
         },
         {
@@ -3227,7 +3227,7 @@
         {
             "Name": "Small Fender",
             "Quantity": "1",
-            "Notes, #": "#73, \"to repeelo\"???",
+            "Notes": "#73, \"to repeelo\"???",
             "Thurs": "X"
         },
         {
@@ -3243,7 +3243,7 @@
         {
             "Name": "Speakers, Unpowered",
             "Quantity": "2",
-            "Notes, #": "8 in wedge Kustom",
+            "Notes": "8 in wedge Kustom",
             "Thurs": "X"
         },
         {
@@ -3264,7 +3264,7 @@
         {
             "Name": "Wireless Combo",
             "Quantity": "2",
-            "Notes, #": "#29, #???",
+            "Notes": "#29, #???",
             "Thurs": "X"
         },
         {
@@ -3305,7 +3305,7 @@
         {
             "Name": "10 ft xlr",
             "Quantity": "3",
-            "Notes, #": "No 10ft XLR but 3FT XLR's",
+            "Notes": "No 10ft XLR but 3FT XLR's",
             "Thurs": "X"
         },
         {
@@ -3316,7 +3316,7 @@
         {
             "Name": "16 x 50 snake",
             "Quantity": "1",
-            "Notes, #": "built into the rack",
+            "Notes": "built into the rack",
             "Thurs": "X"
         },
         {
@@ -3367,13 +3367,13 @@
         {
             "Name": "big projector",
             "Quantity": "1",
-            "Notes, #": "#126",
+            "Notes": "#126",
             "Thurs": "X"
         },
         {
             "Name": "Blue ray player w comp",
             "Quantity": "1",
-            "Notes, #": "#51",
+            "Notes": "#51",
             "Thurs": "X"
         },
         {
@@ -3384,13 +3384,13 @@
         {
             "Name": "PCDI",
             "Quantity": "1",
-            "Notes, #": "#85",
+            "Notes": "#85",
             "Thurs": "X"
         },
         {
             "Name": "projector table.",
             "Quantity": "1",
-            "Notes, #": "#13",
+            "Notes": "#13",
             "Thurs": "X"
         },
         {
@@ -3401,7 +3401,7 @@
         {
             "Name": "skirt for screen",
             "Quantity": "1",
-            "Notes, #": "Recv'd Velcro need Snap",
+            "Notes": "Recv'd Velcro need Snap",
             "Thurs": "X"
         },
         {
@@ -3427,7 +3427,7 @@
         {
             "Name": "wireless cornbos",
             "Quantity": "2",
-            "Notes, #": "#26, #???",
+            "Notes": "#26, #???",
             "Thurs": "X"
         },
         {
@@ -3453,7 +3453,7 @@
         {
             "Name": "QSC Gx7",
             "Quantity": "2",
-            "Notes, #": "2 Per Rack",
+            "Notes": "2 Per Rack",
             "In (Tue/Wed)": "X"
         },
         {
@@ -3464,13 +3464,13 @@
         {
             "Name": "A & H GL3 32CH",
             "Quantity": "1",
-            "Notes, #": "Power Supply in Case",
+            "Notes": "Power Supply in Case",
             "In (Tue/Wed)": "X"
         },
         {
             "Name": "1/3 EQ",
             "Quantity": "6",
-            "Notes, #": "Rack Tailed",
+            "Notes": "Rack Tailed",
             "In (Tue/Wed)": "X"
         },
         {
@@ -3506,7 +3506,7 @@
         {
             "Name": "Purple 1/4 Cable",
             "Quantity": "16",
-            "Notes, #": "Listed twice, both bin 8",
+            "Notes": "Listed twice, both bin 8",
             "In (Tue/Wed)": "X"
         },
         {
@@ -3517,7 +3517,7 @@
         {
             "Name": "SHS OM 450",
             "Quantity": "8",
-            "Notes, #": "CC57",
+            "Notes": "CC57",
             "In (Tue/Wed)": "X"
         },
         {
@@ -3533,7 +3533,7 @@
         {
             "Name": "Wireless",
             "Quantity": "???",
-            "Notes, #": "NEED SNAKE"
+            "Notes": "NEED SNAKE"
         },
         {
             "Name": "SM81",
@@ -3583,7 +3583,7 @@
         {
             "Name": "Stage Monitor",
             "Quantity": "3",
-            "Notes, #": "HDMI in, 32 in, #42",
+            "Notes": "HDMI in, 32 in, #42",
             "In (Tue/Wed)": "X"
         },
         {
@@ -3624,7 +3624,7 @@
         {
             "Name": "Onstage Video Monitor",
             "Quantity": "1",
-            "Notes, #": "Visio, #32",
+            "Notes": "Visio, #32",
             "In (Tue/Wed)": "X"
         },
         {
@@ -3655,7 +3655,7 @@
         {
             "Name": "Short Star Stands",
             "Quantity": "6",
-            "Notes, #": "WITH  58 CLIPS",
+            "Notes": "WITH  58 CLIPS",
             "In (Tue/Wed)": "X"
         },
         {
@@ -3674,7 +3674,7 @@
         {
             "Name": "Bluray Player",
             "Quantity": "1",
-            "Notes, #": "#???",
+            "Notes": "#???",
             "In (Tue/Wed)": "X"
         },
         {
@@ -3700,7 +3700,7 @@
         {
             "Name": "CAMERA W/PS +ZOOM",
             "Quantity": "1",
-            "Notes, #": "Canon XA25, #33",
+            "Notes": "Canon XA25, #33",
             "In (Tue/Wed)": "X"
         },
         {
@@ -3721,7 +3721,7 @@
         {
             "Name": "Camera Tripod",
             "Quantity": "1",
-            "Notes, #": "FM18",
+            "Notes": "FM18",
             "In (Tue/Wed)": "X"
         }
     ],
@@ -3741,17 +3741,17 @@
         {
             "Name": "8 ch Mixer",
             "Quantity": "1",
-            "Notes, #": "#34"
+            "Notes": "#34"
         },
         {
             "Name": "PCDI",
             "Quantity": "1",
-            "Notes, #": "#1013"
+            "Notes": "#1013"
         },
         {
             "Name": "Power Strip",
             "Quantity": "4",
-            "Notes, #": "listed twice"
+            "Notes": "listed twice"
         },
         {
             "Name": "SM58",
@@ -3828,7 +3828,7 @@
         {
             "Name": "10 ch Mixer",
             "Quantity": "1",
-            "Notes, #": "#83 listed, but no mixer, using the one in the wall",
+            "Notes": "#83 listed, but no mixer, using the one in the wall",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -3841,7 +3841,7 @@
         {
             "Name": "Blue Ray Player",
             "Quantity": "1",
-            "Notes, #": "#80",
+            "Notes": "#80",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -3854,7 +3854,7 @@
         {
             "Name": "PCDI",
             "Quantity": "1",
-            "Notes, #": "#275",
+            "Notes": "#275",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -3867,14 +3867,14 @@
         {
             "Name": "Projector Table",
             "Quantity": "1",
-            "Notes, #": "cart, med",
+            "Notes": "cart, med",
             "Thurs": "X",
             "Fri": "X"
         },
         {
             "Name": "Projector, VGA",
             "Quantity": "1",
-            "Notes, #": "#31",
+            "Notes": "#31",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -3940,7 +3940,7 @@
         {
             "Name": "25 ft HDMI",
             "Quantity": "5",
-            "Notes, #": "2 to M103",
+            "Notes": "2 to M103",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -3948,7 +3948,7 @@
         {
             "Name": "25 ft VGA",
             "Quantity": "5",
-            "Notes, #": "2 to A707",
+            "Notes": "2 to A707",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -3956,7 +3956,7 @@
         {
             "Name": "25 ft XLR",
             "Quantity": "20",
-            "Notes, #": "16 to Imp. Ballrm.",
+            "Notes": "16 to Imp. Ballrm.",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -3971,7 +3971,7 @@
         {
             "Name": "50 ft Spkr (aka 1/4)",
             "Quantity": "6",
-            "Notes, #": "1 to A707",
+            "Notes": "1 to A707",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -3986,7 +3986,7 @@
         {
             "Name": "12 ch Mixer",
             "Quantity": "1",
-            "Notes, #": "#117",
+            "Notes": "#117",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -3994,7 +3994,7 @@
         {
             "Name": "9v Batteries for Wireless",
             "Quantity": "12",
-            "Notes, #": "full pack w/ wireless",
+            "Notes": "full pack w/ wireless",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4002,7 +4002,7 @@
         {
             "Name": "Adaptor - BNC to F",
             "Quantity": "6",
-            "Notes, #": "only 5/6",
+            "Notes": "only 5/6",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4017,7 +4017,7 @@
         {
             "Name": "Adaptor - BNC to RCA",
             "Quantity": "6",
-            "Notes, #": "only 5/6",
+            "Notes": "only 5/6",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4025,7 +4025,7 @@
         {
             "Name": "Blue Ray Player",
             "Quantity": "2",
-            "Notes, #": "# 73, #20",
+            "Notes": "# 73, #20",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4033,7 +4033,7 @@
         {
             "Name": "BNC Barrels",
             "Quantity": "6",
-            "Notes, #": "only 5/6",
+            "Notes": "only 5/6",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4041,7 +4041,7 @@
         {
             "Name": "Boom Stands",
             "Quantity": "4",
-            "Notes, #": "only 3/4",
+            "Notes": "only 3/4",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4077,7 +4077,7 @@
         {
             "Name": "Microphone Clips",
             "Quantity": "14",
-            "Notes, #": "dual set, 14 in total",
+            "Notes": "dual set, 14 in total",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4092,7 +4092,7 @@
         {
             "Name": "PCDI",
             "Quantity": "2",
-            "Notes, #": "#309, #274",
+            "Notes": "#309, #274",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4100,7 +4100,7 @@
         {
             "Name": "Power Strips",
             "Quantity": "20",
-            "Notes, #": "only 19",
+            "Notes": "only 19",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4108,7 +4108,7 @@
         {
             "Name": "Projector",
             "Quantity": "2",
-            "Notes, #": "#97, #109, 1 taken to M103, \"return #62 projector + 7 ft screen\"",
+            "Notes": "#97, #109, 1 taken to M103, \"return #62 projector + 7 ft screen\"",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4116,7 +4116,7 @@
         {
             "Name": "Projector Table",
             "Quantity": "1",
-            "Notes, #": "#9, taken to M103",
+            "Notes": "#9, taken to M103",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4124,7 +4124,7 @@
         {
             "Name": "Tripod Screen, 5 ft",
             "Quantity": "2",
-            "Notes, #": "2 to M103, +1 proj. screen from M401",
+            "Notes": "2 to M103, +1 proj. screen from M401",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4132,7 +4132,7 @@
         {
             "Name": "Ratchet Straps",
             "Quantity": "2",
-            "Notes, #": "missing"
+            "Notes": "missing"
         },
         {
             "Name": "Duct Tape Rolls, Black",
@@ -4151,7 +4151,7 @@
         {
             "Name": "Fender Mixer, small",
             "Quantity": "1",
-            "Notes, #": "#46",
+            "Notes": "#46",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4187,7 +4187,7 @@
         {
             "Name": "Tall Mic Stands",
             "Quantity": "6",
-            "Notes, #": "1 extra = 7",
+            "Notes": "1 extra = 7",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4202,7 +4202,7 @@
         {
             "Name": "Wireless Combo Mic",
             "Quantity": "2",
-            "Notes, #": "#36, #???",
+            "Notes": "#36, #???",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4235,7 +4235,7 @@
         {
             "Name": "50 ft VGA",
             "Quantity": "2",
-            "Notes, #": "1 taken to A707",
+            "Notes": "1 taken to A707",
             "Fri": "X"
         }
     ],
@@ -4243,7 +4243,7 @@
         {
             "Name": "10 Ch Mixer, powered",
             "Quantity": "1",
-            "Notes, #": "#228",
+            "Notes": "#228",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4318,7 +4318,7 @@
         {
             "Name": "Blue Ray Player",
             "Quantity": "1",
-            "Notes, #": "#92",
+            "Notes": "#92",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4340,7 +4340,7 @@
         {
             "Name": "PCDI",
             "Quantity": "1",
-            "Notes, #": "#1017",
+            "Notes": "#1017",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4348,7 +4348,7 @@
         {
             "Name": "Projector, VGA/HDMI",
             "Quantity": "1",
-            "Notes, #": "#???",
+            "Notes": "#???",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4363,7 +4363,7 @@
         {
             "Name": "Cart, small",
             "Quantity": "1",
-            "Notes, #": "for projector",
+            "Notes": "for projector",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4424,7 +4424,7 @@
         {
             "Name": "Wireless HH",
             "Quantity": "2",
-            "Notes, #": "#57, #???",
+            "Notes": "#57, #???",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4476,7 +4476,7 @@
         {
             "Name": "10 ch Mixer",
             "Quantity": "1",
-            "Notes, #": "#21",
+            "Notes": "#21",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4582,7 +4582,7 @@
         {
             "Name": "Blueray Player ",
             "Quantity": "1",
-            "Notes, #": "#89",
+            "Notes": "#89",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4611,7 +4611,7 @@
         {
             "Name": "PCDI",
             "Quantity": "1",
-            "Notes, #": "#6",
+            "Notes": "#6",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4626,7 +4626,7 @@
         {
             "Name": "Projector Tables",
             "Quantity": "2",
-            "Notes, #": "#14, #15",
+            "Notes": "#14, #15",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4634,7 +4634,7 @@
         {
             "Name": "Projector, VGA",
             "Quantity": "2",
-            "Notes, #": "#50, #39",
+            "Notes": "#50, #39",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4677,7 +4677,7 @@
         {
             "Name": "Trifold Screen 8 ft",
             "Quantity": "2",
-            "Notes, #": "got 3",
+            "Notes": "got 3",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -4718,7 +4718,7 @@
         {
             "Name": "6FT XLR  ",
             "Quantity": "1",
-            "Notes, #": "change to    2FT",
+            "Notes": "change to    2FT",
             "In (Tue/Wed)": "NotLoaded In",
             "Thurs": "NotLoaded In",
             "Fri": "NotLoaded In",
@@ -4783,7 +4783,7 @@
         {
             "Name": "Projector  #64",
             "Quantity": "1",
-            "Notes, #": "Marked Chadtain A",
+            "Notes": "Marked Chadtain A",
             "In (Tue/Wed)": "NotLoaded In",
             "Thurs": "NotLoaded In",
             "Fri": "NotLoaded In",
@@ -4797,7 +4797,7 @@
         {
             "Name": "100 ft XLR",
             "Quantity": "6",
-            "Notes, #": "Listed twice"
+            "Notes": "Listed twice"
         },
         {
             "Name": "50 ft XLR",
@@ -4806,7 +4806,7 @@
         {
             "Name": "25 ft XLR",
             "Quantity": "18",
-            "Notes, #": "Listed twice"
+            "Notes": "Listed twice"
         },
         {
             "Name": "Edison Euro",
@@ -4815,12 +4815,12 @@
         {
             "Name": "QBoxes",
             "Quantity": "4",
-            "Notes, #": "silver boxes"
+            "Notes": "silver boxes"
         },
         {
             "Name": "Power Con",
             "Quantity": "4",
-            "Notes, #": "blue ends, wrapped together with Q Boxes & Edison Euro cables"
+            "Notes": "blue ends, wrapped together with Q Boxes & Edison Euro cables"
         },
         {
             "Name": "Adapter - 1/4 to XLR m",
@@ -4837,7 +4837,7 @@
         {
             "Name": "STR WAR Clips",
             "Quantity": "7",
-            "Notes, #": "mic clips???"
+            "Notes": "mic clips???"
         },
         {
             "Name": "HD Crank Ups",
@@ -4854,7 +4854,7 @@
         {
             "Name": "Bluray Player",
             "Quantity": "1",
-            "Notes, #": "#???"
+            "Notes": "#???"
         },
         {
             "Name": "Ghost aka Audio Noise Stripper",
@@ -4863,7 +4863,7 @@
         {
             "Name": "XLR Split 1 to 2",
             "Quantity": "1",
-            "Notes, #": "short green XLRs"
+            "Notes": "short green XLRs"
         },
         {
             "Name": "Set Rack Wiring",
@@ -4896,12 +4896,12 @@
         {
             "Name": "Converter - HDMI to SDI",
             "Quantity": "3",
-            "Notes, #": "4 on Wed"
+            "Notes": "4 on Wed"
         },
         {
             "Name": "Converter - SDI to HDMI",
             "Quantity": "4",
-            "Notes, #": "3 out of 4 on Wed"
+            "Notes": "3 out of 4 on Wed"
         },
         {
             "Name": "200 ft SDI",
@@ -4942,7 +4942,7 @@
         {
             "Name": "Projector",
             "Quantity": "2",
-            "Notes, #": "#???, #???"
+            "Notes": "#???, #???"
         },
         {
             "Name": "10 by 10 Fastfold Screen",
@@ -4971,7 +4971,7 @@
         {
             "Name": "1/4 to 1/8 Stereo",
             "Quantity": "2",
-            "Notes, #": "1/4 to phone jack"
+            "Notes": "1/4 to phone jack"
         },
         {
             "Name": "1/4 TRS/XLRN",
@@ -4980,12 +4980,12 @@
         {
             "Name": "Boom Stands",
             "Quantity": "8",
-            "Notes, #": "only 7/8"
+            "Notes": "only 7/8"
         },
         {
             "Name": "Equalizers",
             "Quantity": "2",
-            "Notes, #": "in w/ Rack AC, one is single, one is dual"
+            "Notes": "in w/ Rack AC, one is single, one is dual"
         },
         {
             "Name": "16 ch Mixer",
@@ -4996,14 +4996,14 @@
             "Quantity": "2"
         },
         {
-            "Notes, #": "Stuck head sticking out of Sun, broken cable cut 10 ft from speaker kit"
+            "Notes": "Stuck head sticking out of Sun, broken cable cut 10 ft from speaker kit"
         }
     ],
     "Marriot A703": [
         {
             "Name": "10 Ch Mixer",
             "Quantity": "1",
-            "Notes, #": "#29",
+            "Notes": "#29",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -5075,7 +5075,7 @@
         {
             "Name": "PCDI",
             "Quantity": "1",
-            "Notes, #": "#32",
+            "Notes": "#32",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -5090,7 +5090,7 @@
         {
             "Name": "Projector Table",
             "Quantity": "1",
-            "Notes, #": "#3",
+            "Notes": "#3",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -5098,7 +5098,7 @@
         {
             "Name": "Projector VGA/HDMI",
             "Quantity": "1",
-            "Notes, #": "#9",
+            "Notes": "#9",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -5176,7 +5176,7 @@
         {
             "Name": "10 Ch Mixer",
             "Quantity": "1",
-            "Notes, #": "#100",
+            "Notes": "#100",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -5226,7 +5226,7 @@
         {
             "Name": "6 ft XLR",
             "Quantity": "2",
-            "Notes, #": "1 is ~3 ft",
+            "Notes": "1 is ~3 ft",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -5273,7 +5273,7 @@
         {
             "Name": "PCDI",
             "Quantity": "1",
-            "Notes, #": "#282",
+            "Notes": "#282",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -5288,7 +5288,7 @@
         {
             "Name": "Projector Table",
             "Quantity": "1",
-            "Notes, #": "#2",
+            "Notes": "#2",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -5296,7 +5296,7 @@
         {
             "Name": "Projector VGA/HDMI",
             "Quantity": "1",
-            "Notes, #": "#44",
+            "Notes": "#44",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -5339,7 +5339,7 @@
         {
             "Name": "Wireless Combos (lavalier)",
             "Quantity": "3",
-            "Notes, #": "#32",
+            "Notes": "#32",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -5403,7 +5403,7 @@
         {
             "Name": "8 ch mixer",
             "Quantity": "1",
-            "Notes, #": "#8",
+            "Notes": "#8",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -5422,7 +5422,7 @@
         {
             "Name": "PCDI",
             "Quantity": "1",
-            "Notes, #": "#285",
+            "Notes": "#285",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -5471,7 +5471,7 @@
         {
             "Name": "Wireless Mic Handheld w/ clip",
             "Quantity": "1",
-            "Notes, #": "#33",
+            "Notes": "#33",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         }
@@ -5550,7 +5550,7 @@
         {
             "Name": "8 Ch mixer",
             "Quantity": "1",
-            "Notes, #": "#20",
+            "Notes": "#20",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -5572,7 +5572,7 @@
         {
             "Name": "PCDI",
             "Quantity": "4",
-            "Notes, #": "#287",
+            "Notes": "#287",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -5622,7 +5622,7 @@
         {
             "Name": "Wireless HH",
             "Quantity": "1",
-            "Notes, #": "#34",
+            "Notes": "#34",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -5667,7 +5667,7 @@
         {
             "Name": "25 ft XLR",
             "Quantity": "9",
-            "Notes, #": "1 extra",
+            "Notes": "1 extra",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -5720,7 +5720,7 @@
         {
             "Name": "10 ch Mixer, Powered",
             "Quantity": "1",
-            "Notes, #": "#98",
+            "Notes": "#98",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -5728,7 +5728,7 @@
         {
             "Name": "AA Batteries for Wireless",
             "Quantity": "12",
-            "Notes, #": "(possibly 9v, not specified)",
+            "Notes": "(possibly 9v, not specified)",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -5757,7 +5757,7 @@
         {
             "Name": "P&D 14 ft Black Drapes",
             "Quantity": "36",
-            "Notes, #": "(2 boxes)",
+            "Notes": "(2 boxes)",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -5779,7 +5779,7 @@
         {
             "Name": "PCDI",
             "Quantity": "1",
-            "Notes, #": "#1018???",
+            "Notes": "#1018???",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -5794,7 +5794,7 @@
         {
             "Name": "Projector HiRes HDMI short throw",
             "Quantity": "1",
-            "Notes, #": "#54",
+            "Notes": "#54",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -5855,7 +5855,7 @@
         {
             "Name": "50 ft Plasma Screen",
             "Quantity": "1",
-            "Notes, #": "seems like an error...",
+            "Notes": "seems like an error...",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -5874,7 +5874,7 @@
         {
             "Name": "10 Ch Mixer, unpowered",
             "Quantity": "1",
-            "Notes, #": "#114",
+            "Notes": "#114",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -5905,7 +5905,7 @@
         {
             "Name": "Blueray Player w/ HDMI",
             "Quantity": "1",
-            "Notes, #": "#86",
+            "Notes": "#86",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -5924,7 +5924,7 @@
         {
             "Name": "Fender mixer",
             "Quantity": "1",
-            "Notes, #": "#43",
+            "Notes": "#43",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -5941,7 +5941,7 @@
         {
             "Name": "PCDI",
             "Quantity": "3",
-            "Notes, #": "#253, #283, #34",
+            "Notes": "#253, #283, #34",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -5954,7 +5954,7 @@
         {
             "Name": "Projector, HDMI",
             "Quantity": "1",
-            "Notes, #": "#???",
+            "Notes": "#???",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -5967,7 +5967,7 @@
         {
             "Name": "Speaker Stands",
             "Quantity": "2",
-            "Notes, #": "6 extra = 8",
+            "Notes": "6 extra = 8",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -5992,7 +5992,7 @@
         {
             "Name": "Wireless Combo Mic",
             "Quantity": "2",
-            "Notes, #": "#46, #???",
+            "Notes": "#46, #???",
             "Thurs": "X",
             "Fri": "X"
         }
@@ -6001,7 +6001,7 @@
         {
             "Name": "6 ft XLR",
             "Quantity": "3",
-            "Notes, #": "listed twice"
+            "Notes": "listed twice"
         },
         {
             "Name": "25 ft AC",
@@ -6024,7 +6024,7 @@
         {
             "Name": "25 ft HDMI",
             "Quantity": "2",
-            "Notes, #": "1 not used",
+            "Notes": "1 not used",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -6049,7 +6049,7 @@
         {
             "Name": "8 channel mixer",
             "Quantity": "1",
-            "Notes, #": "#16",
+            "Notes": "#16",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -6074,12 +6074,12 @@
         {
             "Name": "Mac Adaptor Kit",
             "Quantity": "1",
-            "Notes, #": "missing/not in bin"
+            "Notes": "missing/not in bin"
         },
         {
             "Name": "PCDI",
             "Quantity": "1",
-            "Notes, #": "#270",
+            "Notes": "#270",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -6098,7 +6098,7 @@
         {
             "Name": "SM58",
             "Quantity": "4",
-            "Notes, #": "1 bad mic",
+            "Notes": "1 bad mic",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -6129,7 +6129,7 @@
         {
             "Name": "Wireless HH Mic",
             "Quantity": "2",
-            "Notes, #": "#58, #???",
+            "Notes": "#58, #???",
             "Thurs": "X",
             "Fri": "X"
         }
@@ -6150,7 +6150,7 @@
         {
             "Name": "50 ft VGA",
             "Quantity": "1",
-            "Notes, #": "unused",
+            "Notes": "unused",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -6163,7 +6163,7 @@
         {
             "Name": "25 ft XLR",
             "Quantity": "6",
-            "Notes, #": "Only 5, all 5 unused",
+            "Notes": "Only 5, all 5 unused",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -6182,7 +6182,7 @@
         {
             "Name": "8 channel mixer",
             "Quantity": "1",
-            "Notes, #": "#27",
+            "Notes": "#27",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -6195,14 +6195,14 @@
         {
             "Name": "Blueray Player",
             "Quantity": "1",
-            "Notes, #": "#81",
+            "Notes": "#81",
             "Thurs": "X",
             "Fri": "X"
         },
         {
             "Name": "PCDI",
             "Quantity": "1",
-            "Notes, #": "#262",
+            "Notes": "#262",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -6233,7 +6233,7 @@
         {
             "Name": "Power Strips",
             "Quantity": "3",
-            "Notes, #": "unused",
+            "Notes": "unused",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -6246,7 +6246,7 @@
         {
             "Name": "SM58",
             "Quantity": "1",
-            "Notes, #": "unused",
+            "Notes": "unused",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -6265,7 +6265,7 @@
         {
             "Name": "Table Mic Stands",
             "Quantity": "1",
-            "Notes, #": "unused",
+            "Notes": "unused",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -6278,7 +6278,7 @@
         {
             "Name": "Wireless Combo Mic",
             "Quantity": "1",
-            "Notes, #": "#42",
+            "Notes": "#42",
             "Thurs": "X",
             "Fri": "X"
         }
@@ -6293,14 +6293,14 @@
         {
             "Name": "25 ft AC",
             "Quantity": "3",
-            "Notes, #": "1 unused",
+            "Notes": "1 unused",
             "Thurs": "X",
             "Fri": "X"
         },
         {
             "Name": "25 ft XLR",
             "Quantity": "5",
-            "Notes, #": "1 extra unused",
+            "Notes": "1 extra unused",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -6325,7 +6325,7 @@
         {
             "Name": "Kustom Mixer",
             "Quantity": "1",
-            "Notes, #": "#39",
+            "Notes": "#39",
             "Thurs": "X",
             "Fri": "X"
         },
@@ -6362,7 +6362,7 @@
         {
             "Name": "Wireless Combo Mic",
             "Quantity": "1",
-            "Notes, #": "#42",
+            "Notes": "#42",
             "Thurs": "X",
             "Fri": "X"
         }
@@ -6399,7 +6399,7 @@
         {
             "Name": "Rolling Plasma Stand",
             "Quantity": "2",
-            "Notes, #": "1 extra",
+            "Notes": "1 extra",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -6437,7 +6437,7 @@
         {
             "Name": "neutrix to 1/4 adaptor ",
             "Quantity": "3",
-            "Notes, #": "in board case",
+            "Notes": "in board case",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -6497,7 +6497,7 @@
         {
             "Name": "50 ft spk cable",
             "Quantity": "8",
-            "Notes, #": "1 extra =9",
+            "Notes": "1 extra =9",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -6522,7 +6522,7 @@
         {
             "Name": "6 ch mixer",
             "Quantity": "1",
-            "Notes, #": "#115",
+            "Notes": "#115",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -6547,7 +6547,7 @@
         {
             "Name": "Blue Ray",
             "Quantity": "1",
-            "Notes, #": "#54",
+            "Notes": "#54",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -6578,7 +6578,7 @@
         {
             "Name": "Fender",
             "Quantity": "1",
-            "Notes, #": "#71",
+            "Notes": "#71",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -6609,7 +6609,7 @@
         {
             "Name": "PCDI",
             "Quantity": "1",
-            "Notes, #": "#205",
+            "Notes": "#205",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -6622,14 +6622,14 @@
         {
             "Name": "Projector Table",
             "Quantity": "1",
-            "Notes, #": "#25",
+            "Notes": "#25",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
         {
             "Name": "Projector w HDMI",
             "Quantity": "1",
-            "Notes, #": "#64",
+            "Notes": "#64",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -6678,14 +6678,14 @@
         {
             "Name": "speaker stands",
             "Quantity": "4",
-            "Notes, #": "4 extra = 8",
+            "Notes": "4 extra = 8",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
         {
             "Name": "Speakers",
             "Quantity": "1",
-            "Notes, #": "1 extra = 2",
+            "Notes": "1 extra = 2",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -6704,7 +6704,7 @@
         {
             "Name": "tall mic stands",
             "Quantity": "2",
-            "Notes, #": "Boom 4",
+            "Notes": "Boom 4",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         },
@@ -6723,7 +6723,7 @@
         {
             "Name": "wireless combo 1 HW ",
             "Quantity": "2",
-            "Notes, #": "#48",
+            "Notes": "#48",
             "In (Tue/Wed)": "X",
             "Thurs": "X"
         }
@@ -6892,7 +6892,7 @@
         {
             "Name": "10 ch Mixer, powered",
             "Quantity": "1",
-            "Notes, #": "#68",
+            "Notes": "#68",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -6914,7 +6914,7 @@
         {
             "Name": "PCDI",
             "Quantity": "1",
-            "Notes, #": "#260",
+            "Notes": "#260",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -6929,7 +6929,7 @@
         {
             "Name": "Projector HDMI",
             "Quantity": "1",
-            "Notes, #": "#103",
+            "Notes": "#103",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -6937,7 +6937,7 @@
         {
             "Name": "Rachet Strap",
             "Quantity": "4",
-            "Notes, #": "missing"
+            "Notes": "missing"
         },
         {
             "Name": "SM 58",
@@ -6984,7 +6984,7 @@
         {
             "Name": "Wireless HH",
             "Quantity": "1",
-            "Notes, #": "#50",
+            "Notes": "#50",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -7036,7 +7036,7 @@
         {
             "Name": "8 ch pwr mixer",
             "Quantity": "1",
-            "Notes, #": "#24",
+            "Notes": "#24",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -7051,7 +7051,7 @@
         {
             "Name": "PCBI",
             "Quantity": "1",
-            "Notes, #": "#77",
+            "Notes": "#77",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -7114,12 +7114,12 @@
         },
         {
             "Name": "VGA to HDMI Converter",
-            "Notes, #": "missing"
+            "Notes": "missing"
         },
         {
             "Name": "Wireless HH",
             "Quantity": "1",
-            "Notes, #": "#51",
+            "Notes": "#51",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -7164,7 +7164,7 @@
         {
             "Name": "6 Channel Mixer",
             "Quantity": "1",
-            "Notes, #": "#22",
+            "Notes": "#22",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -7193,7 +7193,7 @@
         {
             "Name": "PCDI",
             "Quantity": "1",
-            "Notes, #": "#278",
+            "Notes": "#278",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -7243,7 +7243,7 @@
         {
             "Name": "Wireless Handheld",
             "Quantity": "1",
-            "Notes, #": "#59",
+            "Notes": "#59",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -7295,7 +7295,7 @@
         {
             "Name": "6 channel mixer",
             "Quantity": "1",
-            "Notes, #": "12 ch, #99",
+            "Notes": "12 ch, #99",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -7310,7 +7310,7 @@
         {
             "Name": "PCDI",
             "Quantity": "1",
-            "Notes, #": "#302",
+            "Notes": "#302",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -7360,7 +7360,7 @@
         {
             "Name": "Wireless HH",
             "Quantity": "1",
-            "Notes, #": "#47",
+            "Notes": "#47",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
@@ -7368,7 +7368,7 @@
         {
             "Name": "Adapter - Neutrix to 1/4",
             "Quantity": "3",
-            "Notes, #": "in board case",
+            "Notes": "in board case",
             "In (Tue/Wed)": "X",
             "Thurs": "X",
             "Fri": "X"
