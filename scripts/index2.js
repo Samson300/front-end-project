@@ -1,4 +1,3 @@
-
 let inventoryURL = "../assets/techOpsInventory.json";
 
 let hotel = [];
@@ -73,15 +72,18 @@ function drawDetailToHotel(thing) {
             const nameDiv = document.createElement('div');
             const quantityDiv = document.createElement('div');
             const notesDiv = document.createElement('div');
+            const spaceDiv = document.createElement('div');
         
             nameDiv.textContent = `Name: ${item.Name}`;
             quantityDiv.textContent = `Quantity: ${item.Quantity}`;
             notesDiv.textContent = `Notes: ${item.Notes}`;
+            spaceDiv.textContent = "**************";
         
         
             detailDiv.appendChild(nameDiv);
             detailDiv.appendChild(quantityDiv);
             detailDiv.appendChild(notesDiv);
+            detailDiv.appendChild(spaceDiv);
         })
 
     })

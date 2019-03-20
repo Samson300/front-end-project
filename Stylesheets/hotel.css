@@ -1,0 +1,154 @@
+html {
+    box-sizing: border-box;
+
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, .1);
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: Verdana, sans-serif; 
+    margin: auto;
+    background: url(/images/bg.jpg);
+
+}
+
+body > * {
+    /*border: 1px solid red;*/
+}
+
+h1, p {
+    text-align: center;
+    /* outline: 2px solid whitesmoke; */
+}
+
+
+h2 {
+    font-size: 5em;
+    text-align: center;
+    color: rgb(248, 6, 6);
+    text-shadow: 10px 10px 5px black;
+
+}
+
+h3, h4 {
+    font-size: 3em;
+    text-align: center;
+    color: white;
+    text-shadow: 10px 10px 20px black;
+}
+
+h4 {
+    font-size: 5em;
+}
+
+/* NAV BAR */
+.navcontainer {
+    width: 100%;
+    display: flexbox;
+    padding: 0px;
+    /* outline: 2px solid green; */
+}
+
+nav {
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
+nav a {
+    display: block;
+    font-family: 'Open Sans Condensed', cursive;
+    font-size: 3.5em;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    padding: 0px 10px;
+    text-decoration: none;
+
+}
+
+.stickynav {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    position: sticky;
+    top: 0;
+    /* outline: 2px solid blueviolet; */
+}
+
+.nav {
+    list-style-type: none;
+    width: 100%;
+    justify-content: center;
+    overflow: hidden;
+    /* background: linear-gradient(rgba(0, 0, 0, .9), rgba(0, 0, 0, 0.8)); */
+    top: 0;
+    font-size: 21px;
+    margin-bottom: 2em;
+    /* outline: 3px solid silver; */
+}
+
+.stickynav a:hover {
+    background-color:silver;
+    padding: 20px;
+    color: black;
+    /*outline: 5px solid green;*/
+}
+
+.active {
+    background: linear-gradient(rgba(0,0,0, .1), rgba(33, 27, 88, 0.4));
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    /* outline: 2px solid red; */
+}
+
+/* ============ */
+.main-content {
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    /* outline: 2px solid yellow; */
+    margin-left: 3px;
+}
+
+.listing,
+.detail {
+    /* outline: 2px solid magenta; */
+    background-color: rgba(255, 255, 255, 0.3);
+    color: black;
+    width: 100%;
+    margin-right: .5em;
+    margin-left: .3em;
+}
+
+.listing {
+    font-size: 3.5em;
+    word-wrap: break-word;
+    padding-left: 25px;
+    max-width: 30%;
+    max-height: 800px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    /* outline: 3px solid lime; */
+}
+
+.detail {
+    font-size: 3.5em;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    max-height: 800px;
+    padding: 1em;
+    /* outline: 3px solid green; */
+}

@@ -261,6 +261,44 @@ img {
   to {opacity: 1}
 }
 
+/*=====HOTEL DATA=====*/
+
+.index-container {
+  text-align: center;
+  font-size: 1.5em;
+  height: 5%;
+  /*outline: 3px solid white;*/
+}
+
+.main-content {
+  height: 80%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  /*outline: 2px solid yellow;*/
+}
+.listing,
+.detail {
+  /*outline: 2px solid magenta;*/
+  background-color: whitesmoke;
+  color: black;
+  height: 100%;
+  margin-right: 3em;
+  margin-left: 3em;
+}
+
+.listing {
+  width: 33%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.detail {
+  width: 65%;
+  padding: 1em;
+}
+
+
 /*====MOOVIT WIDGET====*/
 
 .mv-gd-widget-20 {
@@ -343,6 +381,7 @@ input::placeholder, textarea::placeholder {
   margin-left: 0px;
   padding: 10px;
 }
+
 
 /*====RESOLUTION CHANGES*/
 
