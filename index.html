@@ -5,8 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Welcome to TechOps for DragonCon</title>
-    <link rel="stylesheet" href="/Stylesheets/index.css">
+    <link rel="stylesheet" href="/Stylesheets/login.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- FOLD SCRIPT -->
     <script type="text/javascript">
         $(document).ready(function(){
             $('.signIn').click(function() {
@@ -16,11 +17,14 @@
     </script>
 </head>
 <body>
-
+    
     <div class="container">
         <div class="signIn">Enter If Ye Dare, Argh!</div>
         <div class="fold">
-            <form>
+            <form
+                action="/login" 
+                method="POST"
+            >
                 <input type="text" name="" placeholder="username">
                 <input type="password" placeholder="password">
                 <input type="submit" name="" value="Login">
