@@ -1,14 +1,18 @@
+// create a slide index and change the index to start counting at 1
 var slideIndex = 1;
 showSlides(slideIndex);
 
+// add a slide
 function plusSlides(n) {
     showSlides(slideIndex += n);
 }
 
+// the current slide
 function currentSlide(n) {
     showSlides(slideIndex = n);
 }
 
+// how to show slides
 function showSlides(n) {
     var i;
     var slides = document.getElementsByClassName("mySlides");
